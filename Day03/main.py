@@ -79,7 +79,6 @@ print(totalPartID)
 
 #Part2
 listMeshedGears = []
-listNoMatches = []
 totalGearRatio = 0
 for parts in partsList:
     if parts.isGear and parts.matched == False:
