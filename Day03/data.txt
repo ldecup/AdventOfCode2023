@@ -1,0 +1,1107 @@
+Part 788 at (1,4) isGear: False interlock: None
+Part 54 at (1,36) isGear: True interlock: [2, 36]
+Part 555 at (1,61) isGear: True interlock: [2, 64]
+Part 270 at (1,73) isGear: False interlock: None
+Part 893 at (1,118) isGear: False interlock: None
+Part 963 at (2,9) isGear: True interlock: [2, 8]
+Part 860 at (2,39) isGear: False interlock: None
+Part 53 at (2,69) isGear: False interlock: None
+Part 52 at (2,98) isGear: False interlock: None
+Part 347 at (2,122) isGear: False interlock: None
+Part 428 at (2,133) isGear: True interlock: [2, 136]
+Part 522 at (2,137) isGear: True interlock: [2, 136]
+Part 41 at (3,20) isGear: False interlock: None
+Part 481 at (3,24) isGear: False interlock: None
+Part 462 at (3,35) isGear: True interlock: [2, 36]
+Part 187 at (3,45) isGear: True interlock: [4, 44]
+Part 678 at (3,54) isGear: True interlock: [4, 55]
+Part 420 at (3,64) isGear: True interlock: [2, 64]
+Part 115 at (3,93) isGear: False interlock: None
+Part 707 at (4,13) isGear: True interlock: [3, 13]
+Part 562 at (4,30) isGear: True interlock: [5, 30]
+Part 438 at (4,77) isGear: True interlock: [5, 80]
+Part 877 at (4,101) isGear: False interlock: None
+Part 199 at (4,113) isGear: True interlock: [5, 114]
+Part 145 at (4,118) isGear: False interlock: None
+Part 71 at (4,130) isGear: False interlock: None
+Part 356 at (5,25) isGear: False interlock: None
+Part 977 at (5,40) isGear: True interlock: [6, 39]
+Part 68 at (5,44) isGear: True interlock: [4, 44]
+Part 38 at (5,55) isGear: True interlock: [4, 55]
+Part 835 at (5,64) isGear: True interlock: [6, 65]
+Part 622 at (5,68) isGear: True interlock: [6, 69]
+Part 332 at (5,72) isGear: True interlock: [6, 74]
+Part 300 at (5,81) isGear: True interlock: [5, 80]
+Part 131 at (5,89) isGear: True interlock: [6, 88]
+Part 422 at (5,93) isGear: False interlock: None
+Part 89 at (5,110) isGear: True interlock: [6, 109]
+Part 926 at (6,31) isGear: True interlock: [5, 30]
+Part 529 at (6,47) isGear: True interlock: [7, 47]
+Part 310 at (6,99) isGear: True interlock: [7, 98]
+Part 835 at (6,113) isGear: True interlock: [5, 114]
+Part 885 at (6,134) isGear: True interlock: [7, 134]
+Part 467 at (7,10) isGear: False interlock: None
+Part 423 at (7,39) isGear: True interlock: [6, 39]
+Part 143 at (7,51) isGear: True interlock: [6, 52]
+Part 955 at (7,62) isGear: True interlock: [6, 65]
+Part 356 at (7,68) isGear: True interlock: [6, 69]
+Part 124 at (7,74) isGear: True interlock: [6, 74]
+Part 588 at (7,86) isGear: True interlock: [6, 88]
+Part 512 at (7,104) isGear: True interlock: [8, 107]
+Part 134 at (7,129) isGear: False interlock: None
+Part 688 at (8,23) isGear: True interlock: [8, 22]
+Part 194 at (8,47) isGear: True interlock: [7, 47]
+Part 148 at (8,96) isGear: True interlock: [7, 98]
+Part 815 at (8,108) isGear: True interlock: [8, 107]
+Part 785 at (8,134) isGear: True interlock: [7, 134]
+Part 673 at (9,3) isGear: False interlock: None
+Part 957 at (9,12) isGear: True interlock: [10, 15]
+Part 103 at (9,30) isGear: False interlock: None
+Part 104 at (9,35) isGear: False interlock: None
+Part 408 at (9,86) isGear: True interlock: [9, 89]
+Part 703 at (9,90) isGear: True interlock: [9, 89]
+Part 4 at (9,126) isGear: False interlock: None
+Part 526 at (9,129) isGear: True interlock: [10, 128]
+Part 628 at (10,8) isGear: True interlock: [11, 9]
+Part 62 at (10,18) isGear: True interlock: [11, 19]
+Part 15 at (10,27) isGear: True interlock: [11, 29]
+Part 885 at (10,50) isGear: False interlock: None
+Part 649 at (10,66) isGear: False interlock: None
+Part 720 at (10,70) isGear: False interlock: None
+Part 93 at (10,102) isGear: False interlock: None
+Part 703 at (10,112) isGear: False interlock: None
+Part 222 at (11,14) isGear: True interlock: [10, 15]
+Part 795 at (11,30) isGear: True interlock: [11, 29]
+Part 54 at (11,57) isGear: True interlock: [12, 57]
+Part 310 at (11,60) isGear: False interlock: None
+Part 622 at (11,84) isGear: True interlock: [12, 86]
+Part 916 at (11,91) isGear: False interlock: None
+Part 493 at (11,129) isGear: True interlock: [10, 128]
+Part 418 at (12,1) isGear: True interlock: [11, 4]
+Part 57 at (12,9) isGear: True interlock: [11, 9]
+Part 125 at (12,19) isGear: True interlock: [11, 19]
+Part 141 at (12,25) isGear: True interlock: [13, 27]
+Part 965 at (12,37) isGear: False interlock: None
+Part 382 at (12,42) isGear: False interlock: None
+Part 177 at (12,47) isGear: False interlock: None
+Part 390 at (12,71) isGear: False interlock: None
+Part 801 at (12,79) isGear: False interlock: None
+Part 659 at (12,96) isGear: False interlock: None
+Part 912 at (12,110) isGear: False interlock: None
+Part 614 at (12,121) isGear: False interlock: None
+Part 448 at (12,125) isGear: False interlock: None
+Part 926 at (13,5) isGear: True interlock: [12, 6]
+Part 517 at (13,57) isGear: True interlock: [12, 57]
+Part 301 at (13,84) isGear: True interlock: [12, 86]
+Part 476 at (14,16) isGear: False interlock: None
+Part 167 at (14,23) isGear: True interlock: [15, 26]
+Part 208 at (14,30) isGear: False interlock: None
+Part 866 at (14,35) isGear: True interlock: [15, 38]
+Part 818 at (14,63) isGear: True interlock: [13, 66]
+Part 200 at (14,67) isGear: True interlock: [13, 66]
+Part 588 at (14,78) isGear: False interlock: None
+Part 534 at (14,107) isGear: True interlock: [13, 108]
+Part 324 at (14,131) isGear: False interlock: None
+Part 571 at (15,4) isGear: True interlock: [16, 7]
+Part 977 at (15,8) isGear: True interlock: [16, 7]
+Part 551 at (15,39) isGear: True interlock: [15, 38]
+Part 172 at (15,88) isGear: False interlock: None
+Part 849 at (15,94) isGear: False interlock: None
+Part 578 at (15,114) isGear: True interlock: [16, 117]
+Part 814 at (15,125) isGear: True interlock: [16, 124]
+Part 176 at (16,16) isGear: False interlock: None
+Part 705 at (16,24) isGear: True interlock: [15, 26]
+Part 406 at (16,33) isGear: False interlock: None
+Part 42 at (16,47) isGear: True interlock: [17, 48]
+Part 58 at (16,65) isGear: True interlock: [17, 64]
+Part 621 at (16,104) isGear: True interlock: [16, 103]
+Part 54 at (16,130) isGear: False interlock: None
+Part 194 at (17,9) isGear: True interlock: [18, 10]
+Part 905 at (17,38) isGear: True interlock: [18, 40]
+Part 567 at (17,42) isGear: True interlock: [18, 45]
+Part 287 at (17,75) isGear: False interlock: None
+Part 303 at (17,89) isGear: False interlock: None
+Part 82 at (17,101) isGear: True interlock: [16, 103]
+Part 600 at (17,110) isGear: False interlock: None
+Part 642 at (17,118) isGear: True interlock: [16, 117]
+Part 672 at (17,125) isGear: True interlock: [16, 124]
+Part 726 at (18,31) isGear: True interlock: [18, 30]
+Part 714 at (18,47) isGear: True interlock: [17, 48]
+Part 341 at (18,65) isGear: True interlock: [17, 64]
+Part 530 at (18,70) isGear: False interlock: None
+Part 415 at (18,82) isGear: False interlock: None
+Part 544 at (18,104) isGear: True interlock: [19, 105]
+Part 429 at (19,7) isGear: True interlock: [18, 10]
+Part 615 at (19,27) isGear: True interlock: [18, 30]
+Part 582 at (19,38) isGear: True interlock: [18, 40]
+Part 240 at (19,42) isGear: True interlock: [18, 45]
+Part 153 at (19,53) isGear: True interlock: [19, 52]
+Part 313 at (19,92) isGear: True interlock: [20, 92]
+Part 443 at (20,15) isGear: False interlock: None
+Part 471 at (20,22) isGear: False interlock: None
+Part 770 at (20,32) isGear: True interlock: [21, 35]
+Part 651 at (20,49) isGear: True interlock: [19, 52]
+Part 649 at (20,57) isGear: False interlock: None
+Part 211 at (20,75) isGear: True interlock: [20, 74]
+Part 548 at (20,99) isGear: False interlock: None
+Part 235 at (20,103) isGear: True interlock: [19, 105]
+Part 2 at (20,116) isGear: False interlock: None
+Part 898 at (20,124) isGear: True interlock: [19, 125]
+Part 916 at (21,11) isGear: True interlock: [22, 14]
+Part 966 at (21,42) isGear: True interlock: [22, 42]
+Part 869 at (21,62) isGear: False interlock: None
+Part 843 at (21,71) isGear: True interlock: [20, 74]
+Part 744 at (21,89) isGear: True interlock: [20, 92]
+Part 777 at (21,118) isGear: True interlock: [21, 121]
+Part 728 at (21,132) isGear: True interlock: [22, 135]
+Part 976 at (22,3) isGear: True interlock: [23, 5]
+Part 699 at (22,20) isGear: True interlock: [21, 19]
+Part 763 at (22,30) isGear: True interlock: [23, 33]
+Part 893 at (22,36) isGear: True interlock: [21, 35]
+Part 608 at (22,56) isGear: True interlock: [22, 59]
+Part 23 at (22,78) isGear: True interlock: [21, 80]
+Part 227 at (22,81) isGear: True interlock: [21, 80]
+Part 411 at (22,105) isGear: True interlock: [23, 108]
+Part 793 at (22,109) isGear: True interlock: [23, 108]
+Part 984 at (22,122) isGear: True interlock: [21, 121]
+Part 683 at (22,126) isGear: False interlock: None
+Part 2 at (23,7) isGear: True interlock: [23, 8]
+Part 787 at (23,13) isGear: True interlock: [22, 14]
+Part 258 at (23,24) isGear: False interlock: None
+Part 878 at (23,41) isGear: True interlock: [22, 42]
+Part 923 at (23,69) isGear: False interlock: None
+Part 674 at (23,133) isGear: True interlock: [22, 135]
+Part 241 at (24,2) isGear: True interlock: [23, 5]
+Part 966 at (24,9) isGear: True interlock: [23, 8]
+Part 804 at (24,33) isGear: True interlock: [23, 33]
+Part 589 at (24,51) isGear: False interlock: None
+Part 554 at (24,58) isGear: False interlock: None
+Part 307 at (24,64) isGear: False interlock: None
+Part 505 at (24,75) isGear: True interlock: [25, 78]
+Part 332 at (24,93) isGear: False interlock: None
+Part 449 at (24,99) isGear: True interlock: [23, 102]
+Part 190 at (24,103) isGear: True interlock: [23, 102]
+Part 780 at (24,112) isGear: False interlock: None
+Part 322 at (24,124) isGear: True interlock: [24, 123]
+Part 540 at (24,138) isGear: False interlock: None
+Part 126 at (25,18) isGear: True interlock: [26, 18]
+Part 837 at (25,26) isGear: False interlock: None
+Part 701 at (25,40) isGear: True interlock: [26, 41]
+Part 581 at (25,71) isGear: False interlock: None
+Part 371 at (25,79) isGear: True interlock: [25, 78]
+Part 753 at (25,89) isGear: False interlock: None
+Part 426 at (25,120) isGear: True interlock: [24, 123]
+Part 264 at (26,31) isGear: False interlock: None
+Part 127 at (26,61) isGear: True interlock: [27, 63]
+Part 562 at (26,84) isGear: False interlock: None
+Part 379 at (26,110) isGear: True interlock: [26, 113]
+Part 786 at (26,125) isGear: False interlock: None
+Part 376 at (27,5) isGear: False interlock: None
+Part 596 at (27,11) isGear: False interlock: None
+Part 511 at (27,40) isGear: True interlock: [26, 41]
+Part 551 at (27,44) isGear: True interlock: [28, 45]
+Part 868 at (27,56) isGear: False interlock: None
+Part 224 at (27,97) isGear: True interlock: [28, 100]
+Part 992 at (27,114) isGear: True interlock: [26, 113]
+Part 817 at (27,129) isGear: False interlock: None
+Part 309 at (27,133) isGear: False interlock: None
+Part 374 at (28,24) isGear: False interlock: None
+Part 164 at (28,34) isGear: False interlock: None
+Part 627 at (28,62) isGear: True interlock: [27, 63]
+Part 340 at (28,68) isGear: False interlock: None
+Part 274 at (28,73) isGear: True interlock: [29, 76]
+Part 710 at (28,78) isGear: False interlock: None
+Part 347 at (28,108) isGear: False interlock: None
+Part 535 at (29,4) isGear: True interlock: [30, 4]
+Part 278 at (29,30) isGear: False interlock: None
+Part 495 at (29,45) isGear: True interlock: [28, 45]
+Part 805 at (29,87) isGear: False interlock: None
+Part 570 at (29,91) isGear: False interlock: None
+Part 724 at (29,100) isGear: True interlock: [28, 100]
+Part 98 at (29,118) isGear: True interlock: [30, 117]
+Part 579 at (30,8) isGear: True interlock: [30, 11]
+Part 65 at (30,12) isGear: True interlock: [30, 11]
+Part 400 at (30,37) isGear: True interlock: [30, 40]
+Part 849 at (30,52) isGear: True interlock: [31, 55]
+Part 764 at (30,61) isGear: False interlock: None
+Part 180 at (30,74) isGear: True interlock: [29, 76]
+Part 576 at (30,95) isGear: False interlock: None
+Part 573 at (30,111) isGear: True interlock: [31, 113]
+Part 648 at (31,20) isGear: True interlock: [32, 21]
+Part 162 at (31,24) isGear: False interlock: None
+Part 733 at (31,33) isGear: False interlock: None
+Part 462 at (31,41) isGear: True interlock: [30, 40]
+Part 484 at (31,101) isGear: True interlock: [32, 104]
+Part 10 at (31,106) isGear: False interlock: None
+Part 981 at (31,129) isGear: False interlock: None
+Part 495 at (32,13) isGear: True interlock: [33, 12]
+Part 932 at (32,52) isGear: True interlock: [31, 55]
+Part 278 at (32,70) isGear: True interlock: [33, 73]
+Part 478 at (32,75) isGear: False interlock: None
+Part 728 at (32,80) isGear: False interlock: None
+Part 798 at (32,88) isGear: False interlock: None
+Part 483 at (32,112) isGear: True interlock: [31, 113]
+Part 717 at (32,116) isGear: False interlock: None
+Part 593 at (32,124) isGear: True interlock: [33, 124]
+Part 738 at (33,18) isGear: True interlock: [32, 21]
+Part 474 at (33,44) isGear: True interlock: [34, 45]
+Part 772 at (33,58) isGear: True interlock: [34, 58]
+Part 877 at (33,63) isGear: True interlock: [33, 66]
+Part 98 at (33,67) isGear: True interlock: [33, 66]
+Part 556 at (33,105) isGear: True interlock: [32, 104]
+Part 870 at (34,4) isGear: False interlock: None
+Part 587 at (34,10) isGear: True interlock: [33, 12]
+Part 676 at (34,14) isGear: True interlock: [35, 14]
+Part 569 at (34,53) isGear: True interlock: [35, 52]
+Part 454 at (34,71) isGear: True interlock: [33, 73]
+Part 832 at (34,96) isGear: True interlock: [35, 99]
+Part 249 at (34,100) isGear: True interlock: [35, 99]
+Part 369 at (34,111) isGear: True interlock: [35, 110]
+Part 264 at (34,116) isGear: True interlock: [35, 116]
+Part 298 at (34,128) isGear: True interlock: [34, 131]
+Part 543 at (34,132) isGear: True interlock: [34, 131]
+Part 246 at (35,19) isGear: True interlock: [36, 21]
+Part 608 at (35,23) isGear: True interlock: [35, 26]
+Part 305 at (35,28) isGear: True interlock: [36, 28]
+Part 227 at (35,43) isGear: True interlock: [34, 45]
+Part 429 at (35,57) isGear: True interlock: [34, 58]
+Part 57 at (35,65) isGear: True interlock: [36, 67]
+Part 889 at (35,77) isGear: False interlock: None
+Part 648 at (35,92) isGear: False interlock: None
+Part 502 at (35,137) isGear: False interlock: None
+Part 901 at (36,13) isGear: True interlock: [35, 14]
+Part 55 at (36,51) isGear: True interlock: [35, 52]
+Part 704 at (36,68) isGear: True interlock: [36, 67]
+Part 264 at (36,72) isGear: True interlock: [36, 75]
+Part 543 at (36,104) isGear: True interlock: [37, 104]
+Part 234 at (36,110) isGear: True interlock: [35, 110]
+Part 859 at (36,117) isGear: True interlock: [35, 116]
+Part 693 at (37,19) isGear: True interlock: [36, 21]
+Part 661 at (37,26) isGear: True interlock: [36, 28]
+Part 641 at (37,35) isGear: True interlock: [37, 34]
+Part 909 at (37,55) isGear: True interlock: [38, 54]
+Part 800 at (37,63) isGear: False interlock: None
+Part 779 at (37,89) isGear: False interlock: None
+Part 811 at (37,93) isGear: True interlock: [38, 96]
+Part 789 at (37,100) isGear: True interlock: [38, 100]
+Part 90 at (37,122) isGear: False interlock: None
+Part 954 at (37,127) isGear: False interlock: None
+Part 637 at (38,1) isGear: False interlock: None
+Part 60 at (38,9) isGear: False interlock: None
+Part 607 at (38,31) isGear: True interlock: [37, 34]
+Part 112 at (38,43) isGear: False interlock: None
+Part 89 at (38,67) isGear: False interlock: None
+Part 601 at (38,105) isGear: True interlock: [37, 104]
+Part 227 at (38,112) isGear: True interlock: [39, 115]
+Part 32 at (38,133) isGear: True interlock: [39, 135]
+Part 410 at (39,27) isGear: False interlock: None
+Part 795 at (39,47) isGear: True interlock: [39, 50]
+Part 702 at (39,55) isGear: True interlock: [38, 54]
+Part 285 at (39,95) isGear: True interlock: [38, 96]
+Part 438 at (39,99) isGear: True interlock: [38, 100]
+Part 711 at (39,116) isGear: True interlock: [39, 115]
+Part 346 at (39,129) isGear: False interlock: None
+Part 332 at (39,136) isGear: True interlock: [39, 135]
+Part 237 at (40,7) isGear: True interlock: [41, 10]
+Part 366 at (40,38) isGear: False interlock: None
+Part 340 at (40,51) isGear: True interlock: [39, 50]
+Part 658 at (40,63) isGear: True interlock: [41, 63]
+Part 282 at (40,75) isGear: False interlock: None
+Part 532 at (40,83) isGear: False interlock: None
+Part 252 at (40,105) isGear: False interlock: None
+Part 95 at (41,11) isGear: True interlock: [41, 10]
+Part 879 at (41,16) isGear: True interlock: [42, 17]
+Part 169 at (41,70) isGear: False interlock: None
+Part 782 at (41,91) isGear: False interlock: None
+Part 202 at (41,111) isGear: True interlock: [42, 114]
+Part 973 at (41,115) isGear: True interlock: [42, 114]
+Part 765 at (41,133) isGear: True interlock: [42, 134]
+Part 601 at (42,24) isGear: False interlock: None
+Part 864 at (42,34) isGear: True interlock: [43, 36]
+Part 195 at (42,47) isGear: False interlock: None
+Part 284 at (42,52) isGear: False interlock: None
+Part 6 at (42,63) isGear: True interlock: [41, 63]
+Part 618 at (42,95) isGear: False interlock: None
+Part 409 at (42,100) isGear: False interlock: None
+Part 673 at (43,7) isGear: True interlock: [44, 8]
+Part 862 at (43,18) isGear: True interlock: [42, 17]
+Part 381 at (43,74) isGear: True interlock: [44, 74]
+Part 777 at (43,86) isGear: False interlock: None
+Part 644 at (43,107) isGear: True interlock: [44, 108]
+Part 852 at (43,132) isGear: True interlock: [42, 134]
+Part 823 at (44,13) isGear: False interlock: None
+Part 211 at (44,31) isGear: False interlock: None
+Part 228 at (44,37) isGear: True interlock: [43, 36]
+Part 292 at (44,46) isGear: True interlock: [44, 49]
+Part 89 at (44,113) isGear: False interlock: None
+Part 526 at (45,9) isGear: True interlock: [44, 8]
+Part 77 at (45,17) isGear: True interlock: [46, 19]
+Part 413 at (45,24) isGear: False interlock: None
+Part 208 at (45,50) isGear: True interlock: [44, 49]
+Part 80 at (45,73) isGear: True interlock: [44, 74]
+Part 835 at (45,82) isGear: False interlock: None
+Part 458 at (45,106) isGear: True interlock: [44, 108]
+Part 5 at (45,119) isGear: True interlock: [45, 120]
+Part 214 at (45,121) isGear: True interlock: [45, 120]
+Part 206 at (46,28) isGear: True interlock: [47, 27]
+Part 13 at (46,41) isGear: False interlock: None
+Part 35 at (46,66) isGear: True interlock: [45, 68]
+Part 529 at (46,95) isGear: False interlock: None
+Part 79 at (46,100) isGear: True interlock: [45, 99]
+Part 718 at (46,112) isGear: True interlock: [47, 112]
+Part 710 at (47,17) isGear: True interlock: [46, 19]
+Part 112 at (47,22) isGear: False interlock: None
+Part 308 at (47,32) isGear: True interlock: [48, 35]
+Part 618 at (47,50) isGear: False interlock: None
+Part 130 at (47,85) isGear: False interlock: None
+Part 917 at (47,91) isGear: True interlock: [48, 91]
+Part 221 at (47,124) isGear: False interlock: None
+Part 205 at (48,6) isGear: False interlock: None
+Part 417 at (48,28) isGear: True interlock: [47, 27]
+Part 891 at (48,41) isGear: True interlock: [49, 44]
+Part 634 at (48,46) isGear: False interlock: None
+Part 241 at (48,63) isGear: False interlock: None
+Part 21 at (48,75) isGear: False interlock: None
+Part 465 at (48,101) isGear: True interlock: [49, 100]
+Part 524 at (48,110) isGear: True interlock: [47, 112]
+Part 8 at (48,116) isGear: True interlock: [49, 115]
+Part 48 at (48,133) isGear: True interlock: [48, 132]
+Part 33 at (49,17) isGear: True interlock: [49, 16]
+Part 431 at (49,24) isGear: False interlock: None
+Part 770 at (49,34) isGear: True interlock: [48, 35]
+Part 449 at (49,86) isGear: True interlock: [50, 88]
+Part 61 at (49,92) isGear: True interlock: [48, 91]
+Part 409 at (49,129) isGear: True interlock: [48, 132]
+Part 202 at (50,13) isGear: True interlock: [49, 16]
+Part 226 at (50,20) isGear: True interlock: [51, 20]
+Part 713 at (50,45) isGear: True interlock: [49, 44]
+Part 321 at (50,52) isGear: True interlock: [51, 54]
+Part 337 at (50,75) isGear: True interlock: [49, 78]
+Part 128 at (50,98) isGear: True interlock: [49, 100]
+Part 826 at (50,106) isGear: False interlock: None
+Part 33 at (50,114) isGear: True interlock: [49, 115]
+Part 655 at (50,124) isGear: False interlock: None
+Part 843 at (50,134) isGear: True interlock: [51, 136]
+Part 943 at (51,33) isGear: True interlock: [52, 32]
+Part 449 at (51,59) isGear: False interlock: None
+Part 576 at (51,64) isGear: True interlock: [52, 66]
+Part 835 at (51,68) isGear: False interlock: None
+Part 945 at (51,88) isGear: True interlock: [50, 88]
+Part 506 at (51,110) isGear: False interlock: None
+Part 143 at (52,9) isGear: False interlock: None
+Part 636 at (52,17) isGear: True interlock: [51, 20]
+Part 920 at (52,23) isGear: True interlock: [53, 23]
+Part 580 at (52,52) isGear: True interlock: [51, 54]
+Part 839 at (52,84) isGear: False interlock: None
+Part 347 at (52,114) isGear: True interlock: [53, 116]
+Part 608 at (52,136) isGear: True interlock: [51, 136]
+Part 847 at (53,13) isGear: False interlock: None
+Part 167 at (53,32) isGear: True interlock: [52, 32]
+Part 485 at (53,45) isGear: False interlock: None
+Part 453 at (53,65) isGear: True interlock: [52, 66]
+Part 365 at (53,88) isGear: True interlock: [54, 87]
+Part 905 at (53,92) isGear: True interlock: [54, 93]
+Part 643 at (53,96) isGear: False interlock: None
+Part 692 at (53,109) isGear: True interlock: [54, 108]
+Part 795 at (53,126) isGear: False interlock: None
+Part 997 at (54,20) isGear: True interlock: [53, 23]
+Part 919 at (54,28) isGear: False interlock: None
+Part 374 at (54,54) isGear: True interlock: [55, 53]
+Part 529 at (54,103) isGear: True interlock: [55, 105]
+Part 34 at (54,115) isGear: True interlock: [53, 116]
+Part 573 at (54,136) isGear: False interlock: None
+Part 752 at (55,3) isGear: True interlock: [56, 5]
+Part 853 at (55,9) isGear: False interlock: None
+Part 407 at (55,35) isGear: True interlock: [55, 38]
+Part 928 at (55,73) isGear: False interlock: None
+Part 641 at (55,83) isGear: True interlock: [56, 84]
+Part 988 at (55,87) isGear: True interlock: [54, 87]
+Part 201 at (55,92) isGear: True interlock: [54, 93]
+Part 289 at (56,15) isGear: True interlock: [55, 18]
+Part 857 at (56,19) isGear: True interlock: [55, 18]
+Part 403 at (56,39) isGear: True interlock: [55, 38]
+Part 992 at (56,52) isGear: True interlock: [55, 53]
+Part 206 at (56,67) isGear: False interlock: None
+Part 328 at (56,98) isGear: False interlock: None
+Part 28 at (56,106) isGear: True interlock: [55, 105]
+Part 957 at (56,128) isGear: False interlock: None
+Part 552 at (56,132) isGear: False interlock: None
+Part 155 at (57,6) isGear: True interlock: [56, 5]
+Part 506 at (57,25) isGear: True interlock: [58, 26]
+Part 761 at (57,29) isGear: False interlock: None
+Part 902 at (57,62) isGear: False interlock: None
+Part 202 at (57,76) isGear: False interlock: None
+Part 578 at (57,82) isGear: True interlock: [56, 84]
+Part 700 at (57,117) isGear: False interlock: None
+Part 909 at (58,48) isGear: False interlock: None
+Part 267 at (58,72) isGear: True interlock: [58, 71]
+Part 907 at (58,86) isGear: True interlock: [57, 87]
+Part 981 at (58,93) isGear: False interlock: None
+Part 887 at (58,121) isGear: True interlock: [59, 122]
+Part 945 at (59,6) isGear: True interlock: [60, 9]
+Part 649 at (59,24) isGear: True interlock: [58, 26]
+Part 319 at (59,37) isGear: False interlock: None
+Part 413 at (59,63) isGear: True interlock: [60, 65]
+Part 797 at (59,68) isGear: True interlock: [58, 71]
+Part 468 at (59,77) isGear: True interlock: [60, 80]
+Part 155 at (59,126) isGear: False interlock: None
+Part 904 at (59,130) isGear: True interlock: [60, 131]
+Part 510 at (60,10) isGear: True interlock: [60, 9]
+Part 508 at (60,15) isGear: True interlock: [61, 14]
+Part 964 at (60,20) isGear: False interlock: None
+Part 248 at (60,30) isGear: True interlock: [60, 29]
+Part 68 at (60,42) isGear: True interlock: [61, 43]
+Part 285 at (60,55) isGear: True interlock: [61, 55]
+Part 289 at (60,73) isGear: True interlock: [61, 73]
+Part 626 at (60,82) isGear: False interlock: None
+Part 873 at (60,110) isGear: False interlock: None
+Part 723 at (60,122) isGear: True interlock: [59, 122]
+Part 800 at (60,134) isGear: True interlock: [61, 136]
+Part 51 at (61,27) isGear: True interlock: [60, 29]
+Part 244 at (61,38) isGear: True interlock: [62, 40]
+Part 754 at (61,47) isGear: True interlock: [62, 46]
+Part 607 at (61,62) isGear: True interlock: [60, 65]
+Part 148 at (61,78) isGear: True interlock: [60, 80]
+Part 800 at (61,102) isGear: False interlock: None
+Part 895 at (61,128) isGear: True interlock: [60, 131]
+Part 863 at (62,3) isGear: False interlock: None
+Part 831 at (62,11) isGear: True interlock: [61, 14]
+Part 913 at (62,42) isGear: True interlock: [61, 43]
+Part 326 at (62,54) isGear: True interlock: [61, 55]
+Part 215 at (62,58) isGear: False interlock: None
+Part 882 at (62,74) isGear: True interlock: [61, 73]
+Part 774 at (62,88) isGear: True interlock: [63, 87]
+Part 252 at (62,109) isGear: False interlock: None
+Part 929 at (62,136) isGear: True interlock: [61, 136]
+Part 9 at (63,17) isGear: True interlock: [64, 17]
+Part 438 at (63,28) isGear: True interlock: [64, 31]
+Part 652 at (63,38) isGear: True interlock: [62, 40]
+Part 239 at (63,49) isGear: True interlock: [64, 49]
+Part 111 at (63,81) isGear: True interlock: [64, 84]
+Part 39 at (63,94) isGear: False interlock: None
+Part 497 at (63,105) isGear: False interlock: None
+Part 519 at (63,116) isGear: False interlock: None
+Part 743 at (63,132) isGear: False interlock: None
+Part 746 at (64,3) isGear: True interlock: [65, 6]
+Part 369 at (64,7) isGear: True interlock: [65, 6]
+Part 486 at (64,13) isGear: True interlock: [65, 13]
+Part 308 at (64,22) isGear: True interlock: [65, 25]
+Part 495 at (64,66) isGear: False interlock: None
+Part 20 at (64,88) isGear: True interlock: [63, 87]
+Part 786 at (65,18) isGear: True interlock: [64, 17]
+Part 224 at (65,28) isGear: True interlock: [64, 31]
+Part 5 at (65,38) isGear: False interlock: None
+Part 205 at (65,48) isGear: True interlock: [64, 49]
+Part 397 at (65,54) isGear: True interlock: [66, 57]
+Part 456 at (65,77) isGear: True interlock: [66, 76]
+Part 833 at (65,84) isGear: True interlock: [64, 84]
+Part 523 at (65,96) isGear: True interlock: [65, 99]
+Part 638 at (65,113) isGear: False interlock: None
+Part 292 at (65,122) isGear: False interlock: None
+Part 399 at (65,129) isGear: False interlock: None
+Part 855 at (65,134) isGear: False interlock: None
+Part 135 at (66,12) isGear: True interlock: [65, 13]
+Part 383 at (66,24) isGear: True interlock: [65, 25]
+Part 335 at (66,62) isGear: False interlock: None
+Part 669 at (66,100) isGear: True interlock: [65, 99]
+Part 684 at (66,104) isGear: True interlock: [66, 107]
+Part 980 at (66,138) isGear: True interlock: [67, 137]
+Part 974 at (67,16) isGear: True interlock: [67, 19]
+Part 185 at (67,20) isGear: True interlock: [67, 19]
+Part 680 at (67,31) isGear: False interlock: None
+Part 987 at (67,35) isGear: False interlock: None
+Part 114 at (67,47) isGear: True interlock: [68, 46]
+Part 117 at (67,57) isGear: True interlock: [66, 57]
+Part 755 at (67,68) isGear: True interlock: [68, 67]
+Part 596 at (67,75) isGear: True interlock: [66, 76]
+Part 450 at (67,82) isGear: False interlock: None
+Part 571 at (67,108) isGear: True interlock: [66, 107]
+Part 818 at (67,132) isGear: False interlock: None
+Part 395 at (68,3) isGear: True interlock: [69, 6]
+Part 823 at (68,43) isGear: True interlock: [68, 46]
+Part 1 at (68,87) isGear: True interlock: [69, 86]
+Part 405 at (68,97) isGear: False interlock: None
+Part 766 at (68,126) isGear: False interlock: None
+Part 815 at (68,136) isGear: True interlock: [67, 137]
+Part 769 at (69,11) isGear: True interlock: [70, 10]
+Part 998 at (69,15) isGear: True interlock: [70, 16]
+Part 325 at (69,30) isGear: True interlock: [69, 33]
+Part 440 at (69,34) isGear: True interlock: [69, 33]
+Part 976 at (69,38) isGear: False interlock: None
+Part 507 at (69,66) isGear: True interlock: [68, 67]
+Part 833 at (69,71) isGear: False interlock: None
+Part 604 at (69,83) isGear: True interlock: [69, 86]
+Part 926 at (69,117) isGear: True interlock: [68, 120]
+Part 668 at (69,121) isGear: True interlock: [68, 120]
+Part 280 at (70,6) isGear: True interlock: [69, 6]
+Part 75 at (70,19) isGear: True interlock: [71, 19]
+Part 314 at (70,47) isGear: False interlock: None
+Part 666 at (70,55) isGear: True interlock: [71, 55]
+Part 533 at (70,75) isGear: True interlock: [71, 74]
+Part 789 at (70,88) isGear: True interlock: [71, 89]
+Part 138 at (70,113) isGear: False interlock: None
+Part 494 at (70,127) isGear: True interlock: [70, 130]
+Part 955 at (70,131) isGear: True interlock: [70, 130]
+Part 77 at (71,10) isGear: True interlock: [70, 10]
+Part 907 at (71,25) isGear: True interlock: [72, 28]
+Part 224 at (71,59) isGear: False interlock: None
+Part 283 at (71,79) isGear: False interlock: None
+Part 161 at (72,18) isGear: True interlock: [71, 19]
+Part 106 at (72,52) isGear: True interlock: [71, 55]
+Part 339 at (72,75) isGear: True interlock: [71, 74]
+Part 634 at (72,90) isGear: True interlock: [71, 89]
+Part 513 at (72,95) isGear: True interlock: [73, 98]
+Part 729 at (72,105) isGear: False interlock: None
+Part 68 at (72,110) isGear: True interlock: [73, 112]
+Part 890 at (72,122) isGear: True interlock: [73, 121]
+Part 746 at (72,126) isGear: False interlock: None
+Part 551 at (73,29) isGear: True interlock: [72, 28]
+Part 368 at (73,48) isGear: False interlock: None
+Part 21 at (73,64) isGear: False interlock: None
+Part 520 at (73,83) isGear: True interlock: [74, 83]
+Part 548 at (74,20) isGear: True interlock: [74, 19]
+Part 843 at (74,37) isGear: True interlock: [75, 39]
+Part 290 at (74,42) isGear: False interlock: None
+Part 532 at (74,57) isGear: False interlock: None
+Part 190 at (74,89) isGear: False interlock: None
+Part 404 at (74,97) isGear: True interlock: [73, 98]
+Part 240 at (74,109) isGear: True interlock: [73, 112]
+Part 830 at (74,119) isGear: True interlock: [73, 121]
+Part 721 at (75,7) isGear: False interlock: None
+Part 982 at (75,26) isGear: False interlock: None
+Part 811 at (75,53) isGear: True interlock: [76, 56]
+Part 276 at (75,82) isGear: True interlock: [74, 83]
+Part 753 at (75,102) isGear: True interlock: [75, 105]
+Part 715 at (75,125) isGear: True interlock: [76, 128]
+Part 202 at (75,129) isGear: True interlock: [76, 128]
+Part 375 at (75,134) isGear: True interlock: [76, 136]
+Part 111 at (76,36) isGear: True interlock: [75, 39]
+Part 969 at (76,41) isGear: False interlock: None
+Part 971 at (76,45) isGear: False interlock: None
+Part 207 at (76,93) isGear: True interlock: [77, 94]
+Part 792 at (76,118) isGear: False interlock: None
+Part 793 at (77,7) isGear: False interlock: None
+Part 640 at (77,13) isGear: False interlock: None
+Part 763 at (77,51) isGear: True interlock: [78, 50]
+Part 591 at (77,56) isGear: True interlock: [76, 56]
+Part 542 at (77,63) isGear: False interlock: None
+Part 747 at (77,88) isGear: True interlock: [78, 89]
+Part 220 at (77,110) isGear: True interlock: [78, 111]
+Part 598 at (77,136) isGear: True interlock: [76, 136]
+Part 723 at (78,28) isGear: False interlock: None
+Part 72 at (78,35) isGear: True interlock: [79, 35]
+Part 120 at (78,71) isGear: True interlock: [79, 73]
+Part 659 at (78,95) isGear: True interlock: [77, 94]
+Part 435 at (78,127) isGear: False interlock: None
+Part 41 at (78,132) isGear: False interlock: None
+Part 875 at (79,6) isGear: True interlock: [79, 5]
+Part 22 at (79,19) isGear: False interlock: None
+Part 958 at (79,23) isGear: False interlock: None
+Part 480 at (79,49) isGear: True interlock: [78, 50]
+Part 876 at (79,86) isGear: True interlock: [78, 89]
+Part 44 at (79,103) isGear: False interlock: None
+Part 608 at (79,110) isGear: True interlock: [78, 111]
+Part 305 at (79,116) isGear: False interlock: None
+Part 593 at (79,121) isGear: True interlock: [80, 121]
+Part 526 at (80,12) isGear: False interlock: None
+Part 329 at (80,30) isGear: True interlock: [81, 32]
+Part 208 at (80,34) isGear: True interlock: [79, 35]
+Part 544 at (80,41) isGear: False interlock: None
+Part 885 at (80,62) isGear: True interlock: [80, 65]
+Part 751 at (80,66) isGear: True interlock: [80, 65]
+Part 756 at (80,73) isGear: True interlock: [79, 73]
+Part 74 at (80,77) isGear: False interlock: None
+Part 139 at (80,91) isGear: False interlock: None
+Part 570 at (81,6) isGear: True interlock: [82, 9]
+Part 173 at (81,96) isGear: False interlock: None
+Part 801 at (81,102) isGear: False interlock: None
+Part 215 at (81,119) isGear: True interlock: [80, 121]
+Part 924 at (82,17) isGear: True interlock: [83, 17]
+Part 658 at (82,24) isGear: False interlock: None
+Part 41 at (82,33) isGear: True interlock: [81, 32]
+Part 142 at (82,39) isGear: True interlock: [82, 42]
+Part 31 at (82,51) isGear: False interlock: None
+Part 937 at (82,55) isGear: False interlock: None
+Part 189 at (82,61) isGear: False interlock: None
+Part 100 at (82,69) isGear: True interlock: [83, 70]
+Part 447 at (82,88) isGear: False interlock: None
+Part 840 at (82,92) isGear: True interlock: [83, 92]
+Part 804 at (82,124) isGear: True interlock: [83, 126]
+Part 654 at (82,129) isGear: False interlock: None
+Part 481 at (83,11) isGear: True interlock: [84, 12]
+Part 849 at (83,28) isGear: False interlock: None
+Part 836 at (83,43) isGear: True interlock: [82, 42]
+Part 447 at (83,82) isGear: False interlock: None
+Part 862 at (83,103) isGear: True interlock: [84, 102]
+Part 108 at (83,111) isGear: True interlock: [84, 110]
+Part 343 at (83,118) isGear: True interlock: [84, 117]
+Part 41 at (83,133) isGear: False interlock: None
+Part 91 at (83,137) isGear: False interlock: None
+Part 783 at (84,17) isGear: True interlock: [83, 17]
+Part 865 at (84,63) isGear: True interlock: [85, 62]
+Part 41 at (84,68) isGear: True interlock: [83, 70]
+Part 154 at (84,87) isGear: False interlock: None
+Part 520 at (84,92) isGear: True interlock: [83, 92]
+Part 367 at (84,99) isGear: True interlock: [84, 102]
+Part 578 at (84,123) isGear: True interlock: [83, 126]
+Part 43 at (85,7) isGear: True interlock: [86, 6]
+Part 759 at (85,13) isGear: True interlock: [84, 12]
+Part 516 at (85,23) isGear: True interlock: [86, 23]
+Part 66 at (85,28) isGear: True interlock: [86, 27]
+Part 422 at (85,40) isGear: False interlock: None
+Part 978 at (85,52) isGear: True interlock: [86, 53]
+Part 93 at (85,56) isGear: False interlock: None
+Part 425 at (85,73) isGear: False interlock: None
+Part 27 at (85,82) isGear: True interlock: [86, 84]
+Part 751 at (85,107) isGear: True interlock: [84, 110]
+Part 326 at (85,112) isGear: False interlock: None
+Part 347 at (85,116) isGear: True interlock: [84, 117]
+Part 204 at (86,32) isGear: True interlock: [85, 35]
+Part 627 at (86,36) isGear: True interlock: [85, 35]
+Part 287 at (86,67) isGear: False interlock: None
+Part 755 at (86,94) isGear: False interlock: None
+Part 356 at (86,101) isGear: False interlock: None
+Part 428 at (87,3) isGear: True interlock: [86, 6]
+Part 335 at (87,15) isGear: False interlock: None
+Part 296 at (87,26) isGear: True interlock: [86, 27]
+Part 971 at (87,51) isGear: True interlock: [86, 53]
+Part 294 at (87,75) isGear: False interlock: None
+Part 968 at (87,79) isGear: False interlock: None
+Part 721 at (87,83) isGear: True interlock: [86, 84]
+Part 546 at (87,87) isGear: True interlock: [88, 90]
+Part 649 at (88,33) isGear: False interlock: None
+Part 624 at (88,47) isGear: False interlock: None
+Part 835 at (88,61) isGear: False interlock: None
+Part 18 at (88,111) isGear: False interlock: None
+Part 131 at (88,115) isGear: True interlock: [89, 114]
+Part 36 at (89,5) isGear: True interlock: [90, 4]
+Part 114 at (89,8) isGear: True interlock: [90, 9]
+Part 106 at (89,13) isGear: True interlock: [90, 13]
+Part 853 at (89,29) isGear: True interlock: [90, 32]
+Part 737 at (89,52) isGear: True interlock: [90, 53]
+Part 517 at (89,71) isGear: False interlock: None
+Part 784 at (89,85) isGear: False interlock: None
+Part 607 at (89,91) isGear: True interlock: [88, 90]
+Part 226 at (90,1) isGear: True interlock: [90, 4]
+Part 303 at (90,63) isGear: True interlock: [89, 66]
+Part 887 at (90,114) isGear: True interlock: [89, 114]
+Part 173 at (90,119) isGear: False interlock: None
+Part 349 at (90,126) isGear: False interlock: None
+Part 903 at (91,6) isGear: True interlock: [90, 9]
+Part 473 at (91,14) isGear: True interlock: [90, 13]
+Part 190 at (91,31) isGear: True interlock: [90, 32]
+Part 702 at (91,36) isGear: False interlock: None
+Part 24 at (91,53) isGear: True interlock: [90, 53]
+Part 734 at (91,69) isGear: False interlock: None
+Part 198 at (91,89) isGear: False interlock: None
+Part 191 at (91,97) isGear: True interlock: [91, 100]
+Part 402 at (91,101) isGear: True interlock: [91, 100]
+Part 810 at (91,106) isGear: True interlock: [92, 106]
+Part 712 at (92,10) isGear: True interlock: [93, 11]
+Part 405 at (92,18) isGear: True interlock: [93, 19]
+Part 967 at (92,27) isGear: False interlock: None
+Part 257 at (92,47) isGear: True interlock: [93, 47]
+Part 664 at (92,76) isGear: True interlock: [93, 78]
+Part 608 at (93,5) isGear: True interlock: [94, 7]
+Part 796 at (93,40) isGear: True interlock: [94, 43]
+Part 800 at (93,95) isGear: True interlock: [94, 96]
+Part 747 at (93,103) isGear: True interlock: [92, 106]
+Part 939 at (93,109) isGear: False interlock: None
+Part 356 at (93,113) isGear: False interlock: None
+Part 45 at (93,117) isGear: True interlock: [94, 117]
+Part 325 at (93,121) isGear: False interlock: None
+Part 899 at (93,133) isGear: False interlock: None
+Part 707 at (94,10) isGear: True interlock: [93, 11]
+Part 629 at (94,20) isGear: True interlock: [93, 19]
+Part 570 at (94,31) isGear: False interlock: None
+Part 358 at (94,36) isGear: True interlock: [95, 36]
+Part 66 at (94,45) isGear: True interlock: [93, 47]
+Part 56 at (94,52) isGear: False interlock: None
+Part 302 at (94,60) isGear: True interlock: [95, 60]
+Part 804 at (94,78) isGear: True interlock: [93, 78]
+Part 290 at (94,89) isGear: True interlock: [94, 92]
+Part 756 at (94,129) isGear: True interlock: [95, 128]
+Part 815 at (94,137) isGear: False interlock: None
+Part 697 at (95,6) isGear: True interlock: [94, 7]
+Part 357 at (95,41) isGear: True interlock: [94, 43]
+Part 878 at (95,48) isGear: False interlock: None
+Part 931 at (95,71) isGear: False interlock: None
+Part 511 at (95,84) isGear: False interlock: None
+Part 958 at (95,110) isGear: True interlock: [96, 109]
+Part 169 at (95,115) isGear: True interlock: [94, 117]
+Part 772 at (95,125) isGear: True interlock: [95, 128]
+Part 777 at (96,12) isGear: True interlock: [97, 15]
+Part 369 at (96,17) isGear: True interlock: [97, 18]
+Part 257 at (96,34) isGear: True interlock: [95, 36]
+Part 334 at (96,58) isGear: True interlock: [95, 60]
+Part 785 at (96,65) isGear: False interlock: None
+Part 171 at (96,80) isGear: True interlock: [95, 82]
+Part 292 at (96,97) isGear: False interlock: None
+Part 635 at (96,103) isGear: False interlock: None
+Part 347 at (97,1) isGear: True interlock: [97, 4]
+Part 962 at (97,30) isGear: True interlock: [98, 31]
+Part 968 at (97,85) isGear: False interlock: None
+Part 763 at (97,92) isGear: False interlock: None
+Part 561 at (97,107) isGear: True interlock: [96, 109]
+Part 136 at (97,115) isGear: False interlock: None
+Part 327 at (97,121) isGear: True interlock: [97, 124]
+Part 777 at (97,125) isGear: True interlock: [97, 124]
+Part 159 at (97,132) isGear: False interlock: None
+Part 192 at (98,5) isGear: True interlock: [97, 4]
+Part 739 at (98,12) isGear: True interlock: [97, 15]
+Part 831 at (98,17) isGear: True interlock: [97, 18]
+Part 888 at (98,21) isGear: False interlock: None
+Part 304 at (98,36) isGear: True interlock: [99, 36]
+Part 715 at (98,74) isGear: True interlock: [99, 73]
+Part 658 at (99,28) isGear: True interlock: [98, 31]
+Part 71 at (99,57) isGear: True interlock: [100, 58]
+Part 762 at (99,63) isGear: True interlock: [100, 65]
+Part 605 at (99,80) isGear: False interlock: None
+Part 509 at (99,86) isGear: True interlock: [100, 89]
+Part 401 at (99,90) isGear: True interlock: [100, 89]
+Part 543 at (99,96) isGear: False interlock: None
+Part 761 at (99,114) isGear: False interlock: None
+Part 382 at (99,125) isGear: True interlock: [100, 125]
+Part 948 at (100,6) isGear: True interlock: [101, 9]
+Part 502 at (100,10) isGear: True interlock: [101, 9]
+Part 520 at (100,16) isGear: False interlock: None
+Part 188 at (100,32) isGear: False interlock: None
+Part 689 at (100,36) isGear: True interlock: [99, 36]
+Part 538 at (100,74) isGear: True interlock: [99, 73]
+Part 530 at (100,131) isGear: True interlock: [100, 134]
+Part 309 at (101,43) isGear: False interlock: None
+Part 172 at (101,48) isGear: True interlock: [101, 51]
+Part 744 at (101,52) isGear: True interlock: [101, 51]
+Part 481 at (101,59) isGear: True interlock: [100, 58]
+Part 29 at (101,63) isGear: True interlock: [100, 65]
+Part 716 at (101,79) isGear: False interlock: None
+Part 227 at (101,125) isGear: True interlock: [100, 125]
+Part 56 at (101,135) isGear: True interlock: [100, 134]
+Part 930 at (102,18) isGear: True interlock: [103, 18]
+Part 347 at (102,22) isGear: False interlock: None
+Part 111 at (102,66) isGear: False interlock: None
+Part 578 at (102,95) isGear: True interlock: [102, 98]
+Part 188 at (102,111) isGear: True interlock: [103, 112]
+Part 304 at (102,121) isGear: False interlock: None
+Part 151 at (103,7) isGear: False interlock: None
+Part 88 at (103,13) isGear: True interlock: [102, 12]
+Part 697 at (103,28) isGear: True interlock: [104, 27]
+Part 111 at (103,40) isGear: False interlock: None
+Part 546 at (103,47) isGear: True interlock: [103, 50]
+Part 663 at (103,56) isGear: True interlock: [103, 59]
+Part 249 at (103,60) isGear: True interlock: [103, 59]
+Part 482 at (103,74) isGear: True interlock: [103, 77]
+Part 7 at (103,78) isGear: True interlock: [103, 77]
+Part 327 at (103,89) isGear: True interlock: [104, 92]
+Part 423 at (103,99) isGear: True interlock: [102, 98]
+Part 513 at (103,106) isGear: False interlock: None
+Part 880 at (103,125) isGear: True interlock: [104, 125]
+Part 309 at (104,16) isGear: True interlock: [103, 18]
+Part 985 at (104,33) isGear: False interlock: None
+Part 619 at (104,66) isGear: False interlock: None
+Part 335 at (104,110) isGear: True interlock: [103, 112]
+Part 808 at (104,118) isGear: True interlock: [105, 117]
+Part 740 at (105,9) isGear: True interlock: [106, 9]
+Part 414 at (105,24) isGear: True interlock: [104, 27]
+Part 624 at (105,39) isGear: True interlock: [106, 39]
+Part 10 at (105,44) isGear: False interlock: None
+Part 720 at (105,47) isGear: True interlock: [105, 50]
+Part 395 at (105,51) isGear: True interlock: [105, 50]
+Part 91 at (105,62) isGear: True interlock: [106, 64]
+Part 520 at (105,72) isGear: False interlock: None
+Part 164 at (105,81) isGear: True interlock: [106, 80]
+Part 318 at (105,90) isGear: True interlock: [104, 92]
+Part 397 at (105,104) isGear: False interlock: None
+Part 560 at (105,125) isGear: True interlock: [104, 125]
+Part 736 at (106,57) isGear: True interlock: [107, 57]
+Part 344 at (106,114) isGear: True interlock: [105, 117]
+Part 361 at (106,129) isGear: False interlock: None
+Part 333 at (107,2) isGear: True interlock: [108, 5]
+Part 271 at (107,7) isGear: True interlock: [106, 9]
+Part 25 at (107,12) isGear: False interlock: None
+Part 958 at (107,27) isGear: True interlock: [107, 30]
+Part 839 at (107,31) isGear: True interlock: [107, 30]
+Part 991 at (107,37) isGear: True interlock: [106, 39]
+Part 82 at (107,67) isGear: False interlock: None
+Part 624 at (107,79) isGear: True interlock: [106, 80]
+Part 286 at (107,87) isGear: False interlock: None
+Part 663 at (107,101) isGear: False interlock: None
+Part 535 at (107,109) isGear: True interlock: [108, 111]
+Part 383 at (107,123) isGear: True interlock: [107, 126]
+Part 368 at (108,23) isGear: True interlock: [109, 26]
+Part 945 at (108,56) isGear: True interlock: [107, 57]
+Part 693 at (108,63) isGear: True interlock: [109, 63]
+Part 692 at (108,70) isGear: True interlock: [109, 69]
+Part 769 at (108,83) isGear: True interlock: [109, 86]
+Part 153 at (108,105) isGear: True interlock: [107, 105]
+Part 811 at (108,116) isGear: False interlock: None
+Part 277 at (108,127) isGear: True interlock: [107, 126]
+Part 667 at (109,4) isGear: True interlock: [108, 5]
+Part 687 at (109,36) isGear: False interlock: None
+Part 834 at (109,88) isGear: True interlock: [110, 89]
+Part 73 at (109,110) isGear: True interlock: [108, 111]
+Part 71 at (109,131) isGear: True interlock: [110, 131]
+Part 647 at (110,26) isGear: True interlock: [109, 26]
+Part 300 at (110,30) isGear: False interlock: None
+Part 568 at (110,64) isGear: True interlock: [109, 63]
+Part 611 at (110,70) isGear: True interlock: [109, 69]
+Part 262 at (110,83) isGear: True interlock: [109, 86]
+Part 742 at (110,96) isGear: False interlock: None
+Part 213 at (110,115) isGear: False interlock: None
+Part 754 at (110,120) isGear: False interlock: None
+Part 73 at (110,128) isGear: True interlock: [111, 127]
+Part 208 at (110,136) isGear: False interlock: None
+Part 9 at (111,3) isGear: True interlock: [112, 4]
+Part 19 at (111,11) isGear: False interlock: None
+Part 129 at (111,35) isGear: True interlock: [112, 36]
+Part 719 at (111,46) isGear: False interlock: None
+Part 795 at (111,55) isGear: True interlock: [112, 55]
+Part 82 at (111,60) isGear: False interlock: None
+Part 375 at (111,89) isGear: True interlock: [110, 89]
+Part 235 at (111,132) isGear: True interlock: [110, 131]
+Part 348 at (112,40) isGear: True interlock: [113, 39]
+Part 260 at (112,69) isGear: False interlock: None
+Part 638 at (112,75) isGear: True interlock: [113, 78]
+Part 165 at (112,113) isGear: True interlock: [113, 112]
+Part 151 at (112,120) isGear: True interlock: [113, 120]
+Part 846 at (112,126) isGear: True interlock: [111, 127]
+Part 257 at (113,3) isGear: True interlock: [112, 4]
+Part 524 at (113,7) isGear: True interlock: [114, 10]
+Part 695 at (113,17) isGear: False interlock: None
+Part 787 at (113,27) isGear: False interlock: None
+Part 403 at (113,33) isGear: True interlock: [112, 36]
+Part 336 at (113,47) isGear: True interlock: [114, 50]
+Part 63 at (113,56) isGear: True interlock: [112, 55]
+Part 788 at (113,62) isGear: False interlock: None
+Part 162 at (113,80) isGear: False interlock: None
+Part 854 at (113,109) isGear: True interlock: [113, 112]
+Part 492 at (113,130) isGear: False interlock: None
+Part 377 at (114,11) isGear: True interlock: [114, 10]
+Part 852 at (114,37) isGear: True interlock: [113, 39]
+Part 681 at (114,43) isGear: True interlock: [115, 46]
+Part 923 at (114,73) isGear: False interlock: None
+Part 198 at (114,85) isGear: False interlock: None
+Part 996 at (114,90) isGear: False interlock: None
+Part 718 at (114,94) isGear: False interlock: None
+Part 809 at (114,102) isGear: False interlock: None
+Part 443 at (114,117) isGear: True interlock: [113, 120]
+Part 415 at (114,135) isGear: True interlock: [115, 135]
+Part 267 at (115,5) isGear: True interlock: [116, 4]
+Part 533 at (115,50) isGear: True interlock: [114, 50]
+Part 724 at (115,65) isGear: True interlock: [116, 64]
+Part 418 at (115,127) isGear: False interlock: None
+Part 145 at (116,1) isGear: True interlock: [116, 4]
+Part 401 at (116,17) isGear: True interlock: [117, 17]
+Part 447 at (116,22) isGear: False interlock: None
+Part 634 at (116,30) isGear: True interlock: [117, 31]
+Part 819 at (116,40) isGear: True interlock: [117, 43]
+Part 9 at (116,47) isGear: True interlock: [115, 46]
+Part 362 at (116,72) isGear: False interlock: None
+Part 241 at (116,80) isGear: False interlock: None
+Part 412 at (116,121) isGear: True interlock: [117, 123]
+Part 929 at (116,133) isGear: True interlock: [115, 135]
+Part 14 at (116,137) isGear: True interlock: [117, 137]
+Part 642 at (117,10) isGear: False interlock: None
+Part 324 at (117,36) isGear: False interlock: None
+Part 394 at (117,64) isGear: True interlock: [116, 64]
+Part 661 at (117,101) isGear: True interlock: [118, 102]
+Part 773 at (117,125) isGear: True interlock: [118, 125]
+Part 165 at (118,6) isGear: False interlock: None
+Part 600 at (118,17) isGear: True interlock: [117, 17]
+Part 492 at (118,29) isGear: True interlock: [117, 31]
+Part 253 at (118,44) isGear: True interlock: [117, 43]
+Part 918 at (118,48) isGear: True interlock: [119, 49]
+Part 537 at (118,58) isGear: False interlock: None
+Part 140 at (118,68) isGear: False interlock: None
+Part 773 at (118,120) isGear: True interlock: [117, 123]
+Part 433 at (118,137) isGear: True interlock: [117, 137]
+Part 10 at (119,12) isGear: False interlock: None
+Part 83 at (119,52) isGear: True interlock: [120, 53]
+Part 241 at (119,72) isGear: False interlock: None
+Part 576 at (119,82) isGear: True interlock: [118, 82]
+Part 417 at (119,94) isGear: True interlock: [119, 93]
+Part 969 at (119,101) isGear: True interlock: [118, 102]
+Part 852 at (119,115) isGear: False interlock: None
+Part 848 at (119,124) isGear: True interlock: [118, 125]
+Part 821 at (119,128) isGear: False interlock: None
+Part 153 at (120,16) isGear: True interlock: [121, 19]
+Part 25 at (120,30) isGear: True interlock: [120, 32]
+Part 317 at (120,33) isGear: True interlock: [120, 32]
+Part 628 at (120,42) isGear: True interlock: [121, 41]
+Part 578 at (120,46) isGear: True interlock: [119, 49]
+Part 17 at (120,69) isGear: True interlock: [120, 68]
+Part 227 at (120,90) isGear: True interlock: [119, 93]
+Part 995 at (120,133) isGear: True interlock: [121, 136]
+Part 889 at (121,6) isGear: True interlock: [121, 9]
+Part 459 at (121,21) isGear: True interlock: [122, 23]
+Part 697 at (121,26) isGear: True interlock: [122, 25]
+Part 304 at (121,50) isGear: True interlock: [120, 53]
+Part 852 at (121,59) isGear: True interlock: [120, 58]
+Part 788 at (121,65) isGear: True interlock: [120, 68]
+Part 630 at (121,72) isGear: False interlock: None
+Part 720 at (121,79) isGear: True interlock: [121, 82]
+Part 594 at (121,83) isGear: True interlock: [121, 82]
+Part 910 at (121,114) isGear: True interlock: [122, 117]
+Part 801 at (121,118) isGear: True interlock: [122, 117]
+Part 939 at (121,129) isGear: False interlock: None
+Part 235 at (122,10) isGear: True interlock: [121, 9]
+Part 607 at (122,16) isGear: True interlock: [121, 19]
+Part 802 at (122,30) isGear: True interlock: [123, 31]
+Part 249 at (122,35) isGear: True interlock: [123, 35]
+Part 233 at (122,41) isGear: True interlock: [121, 41]
+Part 177 at (122,90) isGear: False interlock: None
+Part 734 at (122,95) isGear: False interlock: None
+Part 828 at (122,106) isGear: True interlock: [123, 108]
+Part 830 at (122,137) isGear: True interlock: [121, 136]
+Part 439 at (123,21) isGear: True interlock: [122, 23]
+Part 944 at (123,26) isGear: True interlock: [122, 25]
+Part 482 at (123,58) isGear: True interlock: [124, 59]
+Part 326 at (124,31) isGear: True interlock: [123, 31]
+Part 3 at (124,38) isGear: True interlock: [123, 39]
+Part 66 at (124,40) isGear: True interlock: [123, 39]
+Part 628 at (124,52) isGear: False interlock: None
+Part 350 at (124,63) isGear: False interlock: None
+Part 544 at (124,72) isGear: False interlock: None
+Part 763 at (124,87) isGear: True interlock: [124, 90]
+Part 142 at (124,107) isGear: True interlock: [123, 108]
+Part 792 at (124,112) isGear: False interlock: None
+Part 974 at (124,119) isGear: False interlock: None
+Part 663 at (124,131) isGear: False interlock: None
+Part 729 at (125,13) isGear: True interlock: [126, 15]
+Part 916 at (125,17) isGear: False interlock: None
+Part 916 at (125,47) isGear: False interlock: None
+Part 221 at (125,56) isGear: True interlock: [124, 59]
+Part 689 at (125,91) isGear: True interlock: [124, 90]
+Part 456 at (125,125) isGear: False interlock: None
+Part 62 at (125,137) isGear: True interlock: [126, 136]
+Part 621 at (126,3) isGear: False interlock: None
+Part 436 at (126,8) isGear: True interlock: [125, 8]
+Part 520 at (126,23) isGear: False interlock: None
+Part 808 at (126,28) isGear: True interlock: [127, 28]
+Part 670 at (126,39) isGear: True interlock: [127, 41]
+Part 121 at (126,64) isGear: False interlock: None
+Part 780 at (126,83) isGear: True interlock: [127, 86]
+Part 844 at (126,96) isGear: True interlock: [126, 95]
+Part 827 at (126,120) isGear: False interlock: None
+Part 338 at (126,130) isGear: True interlock: [127, 132]
+Part 24 at (127,14) isGear: True interlock: [126, 15]
+Part 601 at (127,50) isGear: True interlock: [126, 53]
+Part 346 at (127,54) isGear: True interlock: [126, 53]
+Part 621 at (127,60) isGear: True interlock: [128, 62]
+Part 531 at (127,69) isGear: True interlock: [128, 70]
+Part 659 at (127,92) isGear: True interlock: [126, 95]
+Part 297 at (127,103) isGear: False interlock: None
+Part 697 at (127,108) isGear: False interlock: None
+Part 468 at (127,113) isGear: True interlock: [128, 115]
+Part 936 at (127,134) isGear: True interlock: [126, 136]
+Part 265 at (128,9) isGear: True interlock: [129, 12]
+Part 905 at (128,24) isGear: True interlock: [129, 24]
+Part 64 at (128,29) isGear: True interlock: [127, 28]
+Part 589 at (128,36) isGear: False interlock: None
+Part 960 at (128,41) isGear: True interlock: [127, 41]
+Part 62 at (128,81) isGear: True interlock: [129, 83]
+Part 19 at (128,85) isGear: True interlock: [127, 86]
+Part 152 at (128,96) isGear: True interlock: [129, 99]
+Part 243 at (128,129) isGear: True interlock: [127, 132]
+Part 962 at (128,138) isGear: True interlock: [129, 137]
+Part 757 at (129,32) isGear: False interlock: None
+Part 270 at (129,52) isGear: False interlock: None
+Part 697 at (129,57) isGear: True interlock: [130, 60]
+Part 588 at (129,62) isGear: True interlock: [128, 62]
+Part 461 at (129,69) isGear: True interlock: [128, 70]
+Part 263 at (129,74) isGear: False interlock: None
+Part 373 at (129,92) isGear: False interlock: None
+Part 464 at (129,108) isGear: True interlock: [130, 111]
+Part 244 at (129,114) isGear: True interlock: [128, 115]
+Part 688 at (129,120) isGear: False interlock: None
+Part 272 at (130,10) isGear: True interlock: [129, 12]
+Part 993 at (130,23) isGear: True interlock: [129, 24]
+Part 536 at (130,27) isGear: True interlock: [131, 28]
+Part 961 at (130,80) isGear: True interlock: [129, 83]
+Part 490 at (130,98) isGear: True interlock: [129, 99]
+Part 181 at (130,128) isGear: True interlock: [131, 128]
+Part 236 at (130,136) isGear: True interlock: [129, 137]
+Part 406 at (131,31) isGear: True interlock: [132, 30]
+Part 238 at (131,61) isGear: True interlock: [130, 60]
+Part 94 at (131,66) isGear: True interlock: [132, 65]
+Part 74 at (131,70) isGear: False interlock: None
+Part 349 at (131,84) isGear: False interlock: None
+Part 723 at (131,93) isGear: False interlock: None
+Part 646 at (131,108) isGear: True interlock: [130, 111]
+Part 328 at (131,113) isGear: True interlock: [132, 112]
+Part 139 at (132,8) isGear: False interlock: None
+Part 624 at (132,41) isGear: True interlock: [133, 43]
+Part 996 at (132,53) isGear: True interlock: [131, 56]
+Part 784 at (132,57) isGear: True interlock: [131, 56]
+Part 61 at (132,79) isGear: True interlock: [133, 80]
+Part 981 at (132,125) isGear: True interlock: [131, 128]
+Part 557 at (132,131) isGear: True interlock: [133, 130]
+Part 313 at (133,15) isGear: False interlock: None
+Part 776 at (133,21) isGear: True interlock: [133, 24]
+Part 228 at (133,29) isGear: True interlock: [132, 30]
+Part 749 at (133,47) isGear: True interlock: [134, 50]
+Part 246 at (133,61) isGear: True interlock: [134, 60]
+Part 579 at (133,65) isGear: True interlock: [132, 65]
+Part 240 at (133,71) isGear: True interlock: [134, 70]
+Part 230 at (133,75) isGear: True interlock: [134, 75]
+Part 611 at (133,83) isGear: False interlock: None
+Part 917 at (133,101) isGear: True interlock: [132, 103]
+Part 703 at (134,2) isGear: True interlock: [135, 4]
+Part 730 at (134,7) isGear: True interlock: [135, 7]
+Part 961 at (134,36) isGear: True interlock: [134, 35]
+Part 764 at (134,40) isGear: True interlock: [133, 43]
+Part 979 at (134,57) isGear: True interlock: [134, 60]
+Part 558 at (134,93) isGear: True interlock: [133, 96]
+Part 906 at (134,97) isGear: True interlock: [133, 96]
+Part 58 at (134,111) isGear: True interlock: [135, 110]
+Part 875 at (134,114) isGear: False interlock: None
+Part 559 at (134,120) isGear: False interlock: None
+Part 274 at (134,125) isGear: True interlock: [134, 124]
+Part 549 at (134,129) isGear: True interlock: [133, 130]
+Part 853 at (135,32) isGear: True interlock: [134, 35]
+Part 821 at (135,47) isGear: True interlock: [134, 50]
+Part 65 at (135,63) isGear: True interlock: [135, 65]
+Part 676 at (135,66) isGear: True interlock: [135, 65]
+Part 47 at (135,70) isGear: True interlock: [134, 70]
+Part 272 at (135,75) isGear: True interlock: [134, 75]
+Part 213 at (135,81) isGear: False interlock: None
+Part 45 at (135,88) isGear: False interlock: None
+Part 321 at (135,107) isGear: True interlock: [135, 110]
+Part 661 at (136,2) isGear: True interlock: [135, 4]
+Part 964 at (136,8) isGear: True interlock: [135, 7]
+Part 540 at (136,25) isGear: True interlock: [137, 26]
+Part 955 at (136,58) isGear: True interlock: [137, 61]
+Part 143 at (136,97) isGear: True interlock: [137, 100]
+Part 907 at (136,101) isGear: True interlock: [137, 100]
+Part 1 at (136,122) isGear: False interlock: None
+Part 10 at (136,126) isGear: True interlock: [137, 128]
+Part 660 at (137,12) isGear: True interlock: [138, 12]
+Part 109 at (137,37) isGear: False interlock: None
+Part 415 at (137,48) isGear: False interlock: None
+Part 353 at (137,53) isGear: False interlock: None
+Part 572 at (137,73) isGear: False interlock: None
+Part 878 at (137,82) isGear: False interlock: None
+Part 131 at (137,129) isGear: True interlock: [137, 128]
+Part 182 at (137,134) isGear: False interlock: None
+Part 963 at (138,18) isGear: True interlock: [139, 21]
+Part 395 at (138,26) isGear: True interlock: [137, 26]
+Part 871 at (138,43) isGear: True interlock: [138, 46]
+Part 994 at (138,62) isGear: True interlock: [137, 61]
+Part 336 at (138,68) isGear: True interlock: [139, 67]
+Part 319 at (138,104) isGear: True interlock: [139, 103]
+Part 88 at (138,112) isGear: True interlock: [139, 114]
+Part 620 at (138,115) isGear: True interlock: [139, 114]
+Part 625 at (139,12) isGear: True interlock: [138, 12]
+Part 7 at (139,31) isGear: True interlock: [139, 32]
+Part 121 at (139,33) isGear: True interlock: [139, 32]
+Part 494 at (139,47) isGear: True interlock: [138, 46]
+Part 8 at (139,60) isGear: False interlock: None
+Part 998 at (139,121) isGear: True interlock: [139, 124]
+Part 973 at (139,125) isGear: True interlock: [139, 124]
+Part 691 at (140,5) isGear: False interlock: None
+Part 614 at (140,20) isGear: True interlock: [139, 21]
+Part 120 at (140,54) isGear: False interlock: None
+Part 238 at (140,68) isGear: True interlock: [139, 67]
+Part 496 at (140,73) isGear: False interlock: None
+Part 477 at (140,103) isGear: True interlock: [139, 103]
+Part 994 at (140,132) isGear: False interlock: None

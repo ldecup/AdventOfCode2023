@@ -1,0 +1,1107 @@
+INFO - 788 is not a gear, removing..
+INFO - 54 meshes with 462
+INFO - 555 meshes with 420
+INFO - 270 is not a gear, removing..
+INFO - 893 is not a gear, removing..
+ERROR - Could not find match for 963
+INFO - 860 is not a gear, removing..
+INFO - 53 is not a gear, removing..
+INFO - 52 is not a gear, removing..
+INFO - 347 is not a gear, removing..
+INFO - 428 meshes with 522
+INFO - 522 is not a gear, removing..
+INFO - 41 is not a gear, removing..
+INFO - 481 is not a gear, removing..
+INFO - 462 is not a gear, removing..
+INFO - 187 meshes with 68
+INFO - 678 meshes with 38
+INFO - 420 is not a gear, removing..
+INFO - 115 is not a gear, removing..
+ERROR - Could not find match for 707
+INFO - 562 meshes with 926
+INFO - 438 meshes with 300
+INFO - 877 is not a gear, removing..
+INFO - 199 meshes with 835
+INFO - 145 is not a gear, removing..
+INFO - 71 is not a gear, removing..
+INFO - 356 is not a gear, removing..
+INFO - 977 meshes with 423
+INFO - 68 is not a gear, removing..
+INFO - 38 is not a gear, removing..
+INFO - 835 meshes with 955
+INFO - 622 meshes with 356
+INFO - 332 meshes with 124
+INFO - 300 is not a gear, removing..
+INFO - 131 meshes with 588
+INFO - 422 is not a gear, removing..
+ERROR - Could not find match for 89
+INFO - 926 is not a gear, removing..
+INFO - 529 meshes with 194
+INFO - 310 meshes with 148
+INFO - 835 is not a gear, removing..
+INFO - 885 meshes with 785
+INFO - 467 is not a gear, removing..
+INFO - 423 is not a gear, removing..
+ERROR - Could not find match for 143
+INFO - 955 is not a gear, removing..
+INFO - 356 is not a gear, removing..
+INFO - 124 is not a gear, removing..
+INFO - 588 is not a gear, removing..
+INFO - 512 meshes with 815
+INFO - 134 is not a gear, removing..
+ERROR - Could not find match for 688
+INFO - 194 is not a gear, removing..
+INFO - 148 is not a gear, removing..
+INFO - 815 is not a gear, removing..
+INFO - 785 is not a gear, removing..
+INFO - 673 is not a gear, removing..
+INFO - 957 meshes with 222
+INFO - 103 is not a gear, removing..
+INFO - 104 is not a gear, removing..
+INFO - 408 meshes with 703
+INFO - 703 is not a gear, removing..
+INFO - 4 is not a gear, removing..
+INFO - 526 meshes with 493
+INFO - 628 meshes with 57
+INFO - 62 meshes with 125
+INFO - 15 meshes with 795
+INFO - 885 is not a gear, removing..
+INFO - 649 is not a gear, removing..
+INFO - 720 is not a gear, removing..
+INFO - 93 is not a gear, removing..
+INFO - 703 is not a gear, removing..
+INFO - 222 is not a gear, removing..
+INFO - 795 is not a gear, removing..
+INFO - 54 meshes with 517
+INFO - 310 is not a gear, removing..
+INFO - 622 meshes with 301
+INFO - 916 is not a gear, removing..
+INFO - 493 is not a gear, removing..
+ERROR - Could not find match for 418
+INFO - 57 is not a gear, removing..
+INFO - 125 is not a gear, removing..
+ERROR - Could not find match for 141
+INFO - 965 is not a gear, removing..
+INFO - 382 is not a gear, removing..
+INFO - 177 is not a gear, removing..
+INFO - 390 is not a gear, removing..
+INFO - 801 is not a gear, removing..
+INFO - 659 is not a gear, removing..
+INFO - 912 is not a gear, removing..
+INFO - 614 is not a gear, removing..
+INFO - 448 is not a gear, removing..
+ERROR - Could not find match for 926
+INFO - 517 is not a gear, removing..
+INFO - 301 is not a gear, removing..
+INFO - 476 is not a gear, removing..
+INFO - 167 meshes with 705
+INFO - 208 is not a gear, removing..
+INFO - 866 meshes with 551
+INFO - 818 meshes with 200
+INFO - 200 is not a gear, removing..
+INFO - 588 is not a gear, removing..
+ERROR - Could not find match for 534
+INFO - 324 is not a gear, removing..
+INFO - 571 meshes with 977
+INFO - 977 is not a gear, removing..
+INFO - 551 is not a gear, removing..
+INFO - 172 is not a gear, removing..
+INFO - 849 is not a gear, removing..
+INFO - 578 meshes with 642
+INFO - 814 meshes with 672
+INFO - 176 is not a gear, removing..
+INFO - 705 is not a gear, removing..
+INFO - 406 is not a gear, removing..
+INFO - 42 meshes with 714
+INFO - 58 meshes with 341
+INFO - 621 meshes with 82
+INFO - 54 is not a gear, removing..
+INFO - 194 meshes with 429
+INFO - 905 meshes with 582
+INFO - 567 meshes with 240
+INFO - 287 is not a gear, removing..
+INFO - 303 is not a gear, removing..
+INFO - 82 is not a gear, removing..
+INFO - 600 is not a gear, removing..
+INFO - 642 is not a gear, removing..
+INFO - 672 is not a gear, removing..
+INFO - 726 meshes with 615
+INFO - 714 is not a gear, removing..
+INFO - 341 is not a gear, removing..
+INFO - 530 is not a gear, removing..
+INFO - 415 is not a gear, removing..
+INFO - 544 meshes with 235
+INFO - 429 is not a gear, removing..
+INFO - 615 is not a gear, removing..
+INFO - 582 is not a gear, removing..
+INFO - 240 is not a gear, removing..
+INFO - 153 meshes with 651
+INFO - 313 meshes with 744
+INFO - 443 is not a gear, removing..
+INFO - 471 is not a gear, removing..
+INFO - 770 meshes with 893
+INFO - 651 is not a gear, removing..
+INFO - 649 is not a gear, removing..
+INFO - 211 meshes with 843
+INFO - 548 is not a gear, removing..
+INFO - 235 is not a gear, removing..
+INFO - 2 is not a gear, removing..
+ERROR - Could not find match for 898
+INFO - 916 meshes with 787
+INFO - 966 meshes with 878
+INFO - 869 is not a gear, removing..
+INFO - 843 is not a gear, removing..
+INFO - 744 is not a gear, removing..
+INFO - 777 meshes with 984
+INFO - 728 meshes with 674
+INFO - 976 meshes with 241
+ERROR - Could not find match for 699
+INFO - 763 meshes with 804
+INFO - 893 is not a gear, removing..
+ERROR - Could not find match for 608
+INFO - 23 meshes with 227
+INFO - 227 is not a gear, removing..
+INFO - 411 meshes with 793
+INFO - 793 is not a gear, removing..
+INFO - 984 is not a gear, removing..
+INFO - 683 is not a gear, removing..
+INFO - 2 meshes with 966
+INFO - 787 is not a gear, removing..
+INFO - 258 is not a gear, removing..
+INFO - 878 is not a gear, removing..
+INFO - 923 is not a gear, removing..
+INFO - 674 is not a gear, removing..
+INFO - 241 is not a gear, removing..
+INFO - 966 is not a gear, removing..
+INFO - 804 is not a gear, removing..
+INFO - 589 is not a gear, removing..
+INFO - 554 is not a gear, removing..
+INFO - 307 is not a gear, removing..
+INFO - 505 meshes with 371
+INFO - 332 is not a gear, removing..
+INFO - 449 meshes with 190
+INFO - 190 is not a gear, removing..
+INFO - 780 is not a gear, removing..
+INFO - 322 meshes with 426
+INFO - 540 is not a gear, removing..
+ERROR - Could not find match for 126
+INFO - 837 is not a gear, removing..
+INFO - 701 meshes with 511
+INFO - 581 is not a gear, removing..
+INFO - 371 is not a gear, removing..
+INFO - 753 is not a gear, removing..
+INFO - 426 is not a gear, removing..
+INFO - 264 is not a gear, removing..
+INFO - 127 meshes with 627
+INFO - 562 is not a gear, removing..
+INFO - 379 meshes with 992
+INFO - 786 is not a gear, removing..
+INFO - 376 is not a gear, removing..
+INFO - 596 is not a gear, removing..
+INFO - 511 is not a gear, removing..
+INFO - 551 meshes with 495
+INFO - 868 is not a gear, removing..
+INFO - 224 meshes with 724
+INFO - 992 is not a gear, removing..
+INFO - 817 is not a gear, removing..
+INFO - 309 is not a gear, removing..
+INFO - 374 is not a gear, removing..
+INFO - 164 is not a gear, removing..
+INFO - 627 is not a gear, removing..
+INFO - 340 is not a gear, removing..
+INFO - 274 meshes with 180
+INFO - 710 is not a gear, removing..
+INFO - 347 is not a gear, removing..
+ERROR - Could not find match for 535
+INFO - 278 is not a gear, removing..
+INFO - 495 is not a gear, removing..
+INFO - 805 is not a gear, removing..
+INFO - 570 is not a gear, removing..
+INFO - 724 is not a gear, removing..
+ERROR - Could not find match for 98
+INFO - 579 meshes with 65
+INFO - 65 is not a gear, removing..
+INFO - 400 meshes with 462
+INFO - 849 meshes with 932
+INFO - 764 is not a gear, removing..
+INFO - 180 is not a gear, removing..
+INFO - 576 is not a gear, removing..
+INFO - 573 meshes with 483
+INFO - 648 meshes with 738
+INFO - 162 is not a gear, removing..
+INFO - 733 is not a gear, removing..
+INFO - 462 is not a gear, removing..
+INFO - 484 meshes with 556
+INFO - 10 is not a gear, removing..
+INFO - 981 is not a gear, removing..
+INFO - 495 meshes with 587
+INFO - 932 is not a gear, removing..
+INFO - 278 meshes with 454
+INFO - 478 is not a gear, removing..
+INFO - 728 is not a gear, removing..
+INFO - 798 is not a gear, removing..
+INFO - 483 is not a gear, removing..
+INFO - 717 is not a gear, removing..
+ERROR - Could not find match for 593
+INFO - 738 is not a gear, removing..
+INFO - 474 meshes with 227
+INFO - 772 meshes with 429
+INFO - 877 meshes with 98
+INFO - 98 is not a gear, removing..
+INFO - 556 is not a gear, removing..
+INFO - 870 is not a gear, removing..
+INFO - 587 is not a gear, removing..
+INFO - 676 meshes with 901
+INFO - 569 meshes with 55
+INFO - 454 is not a gear, removing..
+INFO - 832 meshes with 249
+INFO - 249 is not a gear, removing..
+INFO - 369 meshes with 234
+INFO - 264 meshes with 859
+INFO - 298 meshes with 543
+INFO - 543 is not a gear, removing..
+INFO - 246 meshes with 693
+ERROR - Could not find match for 608
+INFO - 305 meshes with 661
+INFO - 227 is not a gear, removing..
+INFO - 429 is not a gear, removing..
+INFO - 57 meshes with 704
+INFO - 889 is not a gear, removing..
+INFO - 648 is not a gear, removing..
+INFO - 502 is not a gear, removing..
+INFO - 901 is not a gear, removing..
+INFO - 55 is not a gear, removing..
+INFO - 704 is not a gear, removing..
+ERROR - Could not find match for 264
+INFO - 543 meshes with 601
+INFO - 234 is not a gear, removing..
+INFO - 859 is not a gear, removing..
+INFO - 693 is not a gear, removing..
+INFO - 661 is not a gear, removing..
+INFO - 641 meshes with 607
+INFO - 909 meshes with 702
+INFO - 800 is not a gear, removing..
+INFO - 779 is not a gear, removing..
+INFO - 811 meshes with 285
+INFO - 789 meshes with 438
+INFO - 90 is not a gear, removing..
+INFO - 954 is not a gear, removing..
+INFO - 637 is not a gear, removing..
+INFO - 60 is not a gear, removing..
+INFO - 607 is not a gear, removing..
+INFO - 112 is not a gear, removing..
+INFO - 89 is not a gear, removing..
+INFO - 601 is not a gear, removing..
+INFO - 227 meshes with 711
+INFO - 32 meshes with 332
+INFO - 410 is not a gear, removing..
+INFO - 795 meshes with 340
+INFO - 702 is not a gear, removing..
+INFO - 285 is not a gear, removing..
+INFO - 438 is not a gear, removing..
+INFO - 711 is not a gear, removing..
+INFO - 346 is not a gear, removing..
+INFO - 332 is not a gear, removing..
+INFO - 237 meshes with 95
+INFO - 366 is not a gear, removing..
+INFO - 340 is not a gear, removing..
+INFO - 658 meshes with 6
+INFO - 282 is not a gear, removing..
+INFO - 532 is not a gear, removing..
+INFO - 252 is not a gear, removing..
+INFO - 95 is not a gear, removing..
+INFO - 879 meshes with 862
+INFO - 169 is not a gear, removing..
+INFO - 782 is not a gear, removing..
+INFO - 202 meshes with 973
+INFO - 973 is not a gear, removing..
+INFO - 765 meshes with 852
+INFO - 601 is not a gear, removing..
+INFO - 864 meshes with 228
+INFO - 195 is not a gear, removing..
+INFO - 284 is not a gear, removing..
+INFO - 6 is not a gear, removing..
+INFO - 618 is not a gear, removing..
+INFO - 409 is not a gear, removing..
+INFO - 673 meshes with 526
+INFO - 862 is not a gear, removing..
+INFO - 381 meshes with 80
+INFO - 777 is not a gear, removing..
+INFO - 644 meshes with 458
+INFO - 852 is not a gear, removing..
+INFO - 823 is not a gear, removing..
+INFO - 211 is not a gear, removing..
+INFO - 228 is not a gear, removing..
+INFO - 292 meshes with 208
+INFO - 89 is not a gear, removing..
+INFO - 526 is not a gear, removing..
+INFO - 77 meshes with 710
+INFO - 413 is not a gear, removing..
+INFO - 208 is not a gear, removing..
+INFO - 80 is not a gear, removing..
+INFO - 835 is not a gear, removing..
+INFO - 458 is not a gear, removing..
+INFO - 5 meshes with 214
+INFO - 214 is not a gear, removing..
+INFO - 206 meshes with 417
+INFO - 13 is not a gear, removing..
+ERROR - Could not find match for 35
+INFO - 529 is not a gear, removing..
+ERROR - Could not find match for 79
+INFO - 718 meshes with 524
+INFO - 710 is not a gear, removing..
+INFO - 112 is not a gear, removing..
+INFO - 308 meshes with 770
+INFO - 618 is not a gear, removing..
+INFO - 130 is not a gear, removing..
+INFO - 917 meshes with 61
+INFO - 221 is not a gear, removing..
+INFO - 205 is not a gear, removing..
+INFO - 417 is not a gear, removing..
+INFO - 891 meshes with 713
+INFO - 634 is not a gear, removing..
+INFO - 241 is not a gear, removing..
+INFO - 21 is not a gear, removing..
+INFO - 465 meshes with 128
+INFO - 524 is not a gear, removing..
+INFO - 8 meshes with 33
+INFO - 48 meshes with 409
+INFO - 33 meshes with 202
+INFO - 431 is not a gear, removing..
+INFO - 770 is not a gear, removing..
+INFO - 449 meshes with 945
+INFO - 61 is not a gear, removing..
+INFO - 409 is not a gear, removing..
+INFO - 202 is not a gear, removing..
+INFO - 226 meshes with 636
+INFO - 713 is not a gear, removing..
+INFO - 321 meshes with 580
+ERROR - Could not find match for 337
+INFO - 128 is not a gear, removing..
+INFO - 826 is not a gear, removing..
+INFO - 33 is not a gear, removing..
+INFO - 655 is not a gear, removing..
+INFO - 843 meshes with 608
+INFO - 943 meshes with 167
+INFO - 449 is not a gear, removing..
+INFO - 576 meshes with 453
+INFO - 835 is not a gear, removing..
+INFO - 945 is not a gear, removing..
+INFO - 506 is not a gear, removing..
+INFO - 143 is not a gear, removing..
+INFO - 636 is not a gear, removing..
+INFO - 920 meshes with 997
+INFO - 580 is not a gear, removing..
+INFO - 839 is not a gear, removing..
+INFO - 347 meshes with 34
+INFO - 608 is not a gear, removing..
+INFO - 847 is not a gear, removing..
+INFO - 167 is not a gear, removing..
+INFO - 485 is not a gear, removing..
+INFO - 453 is not a gear, removing..
+INFO - 365 meshes with 988
+INFO - 905 meshes with 201
+INFO - 643 is not a gear, removing..
+ERROR - Could not find match for 692
+INFO - 795 is not a gear, removing..
+INFO - 997 is not a gear, removing..
+INFO - 919 is not a gear, removing..
+INFO - 374 meshes with 992
+INFO - 529 meshes with 28
+INFO - 34 is not a gear, removing..
+INFO - 573 is not a gear, removing..
+INFO - 752 meshes with 155
+INFO - 853 is not a gear, removing..
+INFO - 407 meshes with 403
+INFO - 928 is not a gear, removing..
+INFO - 641 meshes with 578
+INFO - 988 is not a gear, removing..
+INFO - 201 is not a gear, removing..
+INFO - 289 meshes with 857
+INFO - 857 is not a gear, removing..
+INFO - 403 is not a gear, removing..
+INFO - 992 is not a gear, removing..
+INFO - 206 is not a gear, removing..
+INFO - 328 is not a gear, removing..
+INFO - 28 is not a gear, removing..
+INFO - 957 is not a gear, removing..
+INFO - 552 is not a gear, removing..
+INFO - 155 is not a gear, removing..
+INFO - 506 meshes with 649
+INFO - 761 is not a gear, removing..
+INFO - 902 is not a gear, removing..
+INFO - 202 is not a gear, removing..
+INFO - 578 is not a gear, removing..
+INFO - 700 is not a gear, removing..
+INFO - 909 is not a gear, removing..
+INFO - 267 meshes with 797
+ERROR - Could not find match for 907
+INFO - 981 is not a gear, removing..
+INFO - 887 meshes with 723
+INFO - 945 meshes with 510
+INFO - 649 is not a gear, removing..
+INFO - 319 is not a gear, removing..
+INFO - 413 meshes with 607
+INFO - 797 is not a gear, removing..
+INFO - 468 meshes with 148
+INFO - 155 is not a gear, removing..
+INFO - 904 meshes with 895
+INFO - 510 is not a gear, removing..
+INFO - 508 meshes with 831
+INFO - 964 is not a gear, removing..
+INFO - 248 meshes with 51
+INFO - 68 meshes with 913
+INFO - 285 meshes with 326
+INFO - 289 meshes with 882
+INFO - 626 is not a gear, removing..
+INFO - 873 is not a gear, removing..
+INFO - 723 is not a gear, removing..
+INFO - 800 meshes with 929
+INFO - 51 is not a gear, removing..
+INFO - 244 meshes with 652
+ERROR - Could not find match for 754
+INFO - 607 is not a gear, removing..
+INFO - 148 is not a gear, removing..
+INFO - 800 is not a gear, removing..
+INFO - 895 is not a gear, removing..
+INFO - 863 is not a gear, removing..
+INFO - 831 is not a gear, removing..
+INFO - 913 is not a gear, removing..
+INFO - 326 is not a gear, removing..
+INFO - 215 is not a gear, removing..
+INFO - 882 is not a gear, removing..
+INFO - 774 meshes with 20
+INFO - 252 is not a gear, removing..
+INFO - 929 is not a gear, removing..
+INFO - 9 meshes with 786
+INFO - 438 meshes with 224
+INFO - 652 is not a gear, removing..
+INFO - 239 meshes with 205
+INFO - 111 meshes with 833
+INFO - 39 is not a gear, removing..
+INFO - 497 is not a gear, removing..
+INFO - 519 is not a gear, removing..
+INFO - 743 is not a gear, removing..
+INFO - 746 meshes with 369
+INFO - 369 is not a gear, removing..
+INFO - 486 meshes with 135
+INFO - 308 meshes with 383
+INFO - 495 is not a gear, removing..
+INFO - 20 is not a gear, removing..
+INFO - 786 is not a gear, removing..
+INFO - 224 is not a gear, removing..
+INFO - 5 is not a gear, removing..
+INFO - 205 is not a gear, removing..
+INFO - 397 meshes with 117
+INFO - 456 meshes with 596
+INFO - 833 is not a gear, removing..
+INFO - 523 meshes with 669
+INFO - 638 is not a gear, removing..
+INFO - 292 is not a gear, removing..
+INFO - 399 is not a gear, removing..
+INFO - 855 is not a gear, removing..
+INFO - 135 is not a gear, removing..
+INFO - 383 is not a gear, removing..
+INFO - 335 is not a gear, removing..
+INFO - 669 is not a gear, removing..
+INFO - 684 meshes with 571
+INFO - 980 meshes with 815
+INFO - 974 meshes with 185
+INFO - 185 is not a gear, removing..
+INFO - 680 is not a gear, removing..
+INFO - 987 is not a gear, removing..
+INFO - 114 meshes with 823
+INFO - 117 is not a gear, removing..
+INFO - 755 meshes with 507
+INFO - 596 is not a gear, removing..
+INFO - 450 is not a gear, removing..
+INFO - 571 is not a gear, removing..
+INFO - 818 is not a gear, removing..
+INFO - 395 meshes with 280
+INFO - 823 is not a gear, removing..
+INFO - 1 meshes with 604
+INFO - 405 is not a gear, removing..
+INFO - 766 is not a gear, removing..
+INFO - 815 is not a gear, removing..
+INFO - 769 meshes with 77
+ERROR - Could not find match for 998
+INFO - 325 meshes with 440
+INFO - 440 is not a gear, removing..
+INFO - 976 is not a gear, removing..
+INFO - 507 is not a gear, removing..
+INFO - 833 is not a gear, removing..
+INFO - 604 is not a gear, removing..
+INFO - 926 meshes with 668
+INFO - 668 is not a gear, removing..
+INFO - 280 is not a gear, removing..
+INFO - 75 meshes with 161
+INFO - 314 is not a gear, removing..
+INFO - 666 meshes with 106
+INFO - 533 meshes with 339
+INFO - 789 meshes with 634
+INFO - 138 is not a gear, removing..
+INFO - 494 meshes with 955
+INFO - 955 is not a gear, removing..
+INFO - 77 is not a gear, removing..
+INFO - 907 meshes with 551
+INFO - 224 is not a gear, removing..
+INFO - 283 is not a gear, removing..
+INFO - 161 is not a gear, removing..
+INFO - 106 is not a gear, removing..
+INFO - 339 is not a gear, removing..
+INFO - 634 is not a gear, removing..
+INFO - 513 meshes with 404
+INFO - 729 is not a gear, removing..
+INFO - 68 meshes with 240
+INFO - 890 meshes with 830
+INFO - 746 is not a gear, removing..
+INFO - 551 is not a gear, removing..
+INFO - 368 is not a gear, removing..
+INFO - 21 is not a gear, removing..
+INFO - 520 meshes with 276
+ERROR - Could not find match for 548
+INFO - 843 meshes with 111
+INFO - 290 is not a gear, removing..
+INFO - 532 is not a gear, removing..
+INFO - 190 is not a gear, removing..
+INFO - 404 is not a gear, removing..
+INFO - 240 is not a gear, removing..
+INFO - 830 is not a gear, removing..
+INFO - 721 is not a gear, removing..
+INFO - 982 is not a gear, removing..
+INFO - 811 meshes with 591
+INFO - 276 is not a gear, removing..
+ERROR - Could not find match for 753
+INFO - 715 meshes with 202
+INFO - 202 is not a gear, removing..
+INFO - 375 meshes with 598
+INFO - 111 is not a gear, removing..
+INFO - 969 is not a gear, removing..
+INFO - 971 is not a gear, removing..
+INFO - 207 meshes with 659
+INFO - 792 is not a gear, removing..
+INFO - 793 is not a gear, removing..
+INFO - 640 is not a gear, removing..
+INFO - 763 meshes with 480
+INFO - 591 is not a gear, removing..
+INFO - 542 is not a gear, removing..
+INFO - 747 meshes with 876
+INFO - 220 meshes with 608
+INFO - 598 is not a gear, removing..
+INFO - 723 is not a gear, removing..
+INFO - 72 meshes with 208
+INFO - 120 meshes with 756
+INFO - 659 is not a gear, removing..
+INFO - 435 is not a gear, removing..
+INFO - 41 is not a gear, removing..
+ERROR - Could not find match for 875
+INFO - 22 is not a gear, removing..
+INFO - 958 is not a gear, removing..
+INFO - 480 is not a gear, removing..
+INFO - 876 is not a gear, removing..
+INFO - 44 is not a gear, removing..
+INFO - 608 is not a gear, removing..
+INFO - 305 is not a gear, removing..
+INFO - 593 meshes with 215
+INFO - 526 is not a gear, removing..
+INFO - 329 meshes with 41
+INFO - 208 is not a gear, removing..
+INFO - 544 is not a gear, removing..
+INFO - 885 meshes with 751
+INFO - 751 is not a gear, removing..
+INFO - 756 is not a gear, removing..
+INFO - 74 is not a gear, removing..
+INFO - 139 is not a gear, removing..
+ERROR - Could not find match for 570
+INFO - 173 is not a gear, removing..
+INFO - 801 is not a gear, removing..
+INFO - 215 is not a gear, removing..
+INFO - 924 meshes with 783
+INFO - 658 is not a gear, removing..
+INFO - 41 is not a gear, removing..
+INFO - 142 meshes with 836
+INFO - 31 is not a gear, removing..
+INFO - 937 is not a gear, removing..
+INFO - 189 is not a gear, removing..
+INFO - 100 meshes with 41
+INFO - 447 is not a gear, removing..
+INFO - 840 meshes with 520
+INFO - 804 meshes with 578
+INFO - 654 is not a gear, removing..
+INFO - 481 meshes with 759
+INFO - 849 is not a gear, removing..
+INFO - 836 is not a gear, removing..
+INFO - 447 is not a gear, removing..
+INFO - 862 meshes with 367
+INFO - 108 meshes with 751
+INFO - 343 meshes with 347
+INFO - 41 is not a gear, removing..
+INFO - 91 is not a gear, removing..
+INFO - 783 is not a gear, removing..
+ERROR - Could not find match for 865
+INFO - 41 is not a gear, removing..
+INFO - 154 is not a gear, removing..
+INFO - 520 is not a gear, removing..
+INFO - 367 is not a gear, removing..
+INFO - 578 is not a gear, removing..
+INFO - 43 meshes with 428
+INFO - 759 is not a gear, removing..
+ERROR - Could not find match for 516
+INFO - 66 meshes with 296
+INFO - 422 is not a gear, removing..
+INFO - 978 meshes with 971
+INFO - 93 is not a gear, removing..
+INFO - 425 is not a gear, removing..
+INFO - 27 meshes with 721
+INFO - 751 is not a gear, removing..
+INFO - 326 is not a gear, removing..
+INFO - 347 is not a gear, removing..
+INFO - 204 meshes with 627
+INFO - 627 is not a gear, removing..
+INFO - 287 is not a gear, removing..
+INFO - 755 is not a gear, removing..
+INFO - 356 is not a gear, removing..
+INFO - 428 is not a gear, removing..
+INFO - 335 is not a gear, removing..
+INFO - 296 is not a gear, removing..
+INFO - 971 is not a gear, removing..
+INFO - 294 is not a gear, removing..
+INFO - 968 is not a gear, removing..
+INFO - 721 is not a gear, removing..
+INFO - 546 meshes with 607
+INFO - 649 is not a gear, removing..
+INFO - 624 is not a gear, removing..
+INFO - 835 is not a gear, removing..
+INFO - 18 is not a gear, removing..
+INFO - 131 meshes with 887
+INFO - 36 meshes with 226
+INFO - 114 meshes with 903
+INFO - 106 meshes with 473
+INFO - 853 meshes with 190
+INFO - 737 meshes with 24
+INFO - 517 is not a gear, removing..
+INFO - 784 is not a gear, removing..
+INFO - 607 is not a gear, removing..
+INFO - 226 is not a gear, removing..
+ERROR - Could not find match for 303
+INFO - 887 is not a gear, removing..
+INFO - 173 is not a gear, removing..
+INFO - 349 is not a gear, removing..
+INFO - 903 is not a gear, removing..
+INFO - 473 is not a gear, removing..
+INFO - 190 is not a gear, removing..
+INFO - 702 is not a gear, removing..
+INFO - 24 is not a gear, removing..
+INFO - 734 is not a gear, removing..
+INFO - 198 is not a gear, removing..
+INFO - 191 meshes with 402
+INFO - 402 is not a gear, removing..
+INFO - 810 meshes with 747
+INFO - 712 meshes with 707
+INFO - 405 meshes with 629
+INFO - 967 is not a gear, removing..
+INFO - 257 meshes with 66
+INFO - 664 meshes with 804
+INFO - 608 meshes with 697
+INFO - 796 meshes with 357
+ERROR - Could not find match for 800
+INFO - 747 is not a gear, removing..
+INFO - 939 is not a gear, removing..
+INFO - 356 is not a gear, removing..
+INFO - 45 meshes with 169
+INFO - 325 is not a gear, removing..
+INFO - 899 is not a gear, removing..
+INFO - 707 is not a gear, removing..
+INFO - 629 is not a gear, removing..
+INFO - 570 is not a gear, removing..
+INFO - 358 meshes with 257
+INFO - 66 is not a gear, removing..
+INFO - 56 is not a gear, removing..
+INFO - 302 meshes with 334
+INFO - 804 is not a gear, removing..
+ERROR - Could not find match for 290
+INFO - 756 meshes with 772
+INFO - 815 is not a gear, removing..
+INFO - 697 is not a gear, removing..
+INFO - 357 is not a gear, removing..
+INFO - 878 is not a gear, removing..
+INFO - 931 is not a gear, removing..
+INFO - 511 is not a gear, removing..
+INFO - 958 meshes with 561
+INFO - 169 is not a gear, removing..
+INFO - 772 is not a gear, removing..
+INFO - 777 meshes with 739
+INFO - 369 meshes with 831
+INFO - 257 is not a gear, removing..
+INFO - 334 is not a gear, removing..
+INFO - 785 is not a gear, removing..
+ERROR - Could not find match for 171
+INFO - 292 is not a gear, removing..
+INFO - 635 is not a gear, removing..
+INFO - 347 meshes with 192
+INFO - 962 meshes with 658
+INFO - 968 is not a gear, removing..
+INFO - 763 is not a gear, removing..
+INFO - 561 is not a gear, removing..
+INFO - 136 is not a gear, removing..
+INFO - 327 meshes with 777
+INFO - 777 is not a gear, removing..
+INFO - 159 is not a gear, removing..
+INFO - 192 is not a gear, removing..
+INFO - 739 is not a gear, removing..
+INFO - 831 is not a gear, removing..
+INFO - 888 is not a gear, removing..
+INFO - 304 meshes with 689
+INFO - 715 meshes with 538
+INFO - 658 is not a gear, removing..
+INFO - 71 meshes with 481
+INFO - 762 meshes with 29
+INFO - 605 is not a gear, removing..
+INFO - 509 meshes with 401
+INFO - 401 is not a gear, removing..
+INFO - 543 is not a gear, removing..
+INFO - 761 is not a gear, removing..
+INFO - 382 meshes with 227
+INFO - 948 meshes with 502
+INFO - 502 is not a gear, removing..
+INFO - 520 is not a gear, removing..
+INFO - 188 is not a gear, removing..
+INFO - 689 is not a gear, removing..
+INFO - 538 is not a gear, removing..
+INFO - 530 meshes with 56
+INFO - 309 is not a gear, removing..
+INFO - 172 meshes with 744
+INFO - 744 is not a gear, removing..
+INFO - 481 is not a gear, removing..
+INFO - 29 is not a gear, removing..
+INFO - 716 is not a gear, removing..
+INFO - 227 is not a gear, removing..
+INFO - 56 is not a gear, removing..
+INFO - 930 meshes with 309
+INFO - 347 is not a gear, removing..
+INFO - 111 is not a gear, removing..
+INFO - 578 meshes with 423
+INFO - 188 meshes with 335
+INFO - 304 is not a gear, removing..
+INFO - 151 is not a gear, removing..
+ERROR - Could not find match for 88
+INFO - 697 meshes with 414
+INFO - 111 is not a gear, removing..
+ERROR - Could not find match for 546
+INFO - 663 meshes with 249
+INFO - 249 is not a gear, removing..
+INFO - 482 meshes with 7
+INFO - 7 is not a gear, removing..
+INFO - 327 meshes with 318
+INFO - 423 is not a gear, removing..
+INFO - 513 is not a gear, removing..
+INFO - 880 meshes with 560
+INFO - 309 is not a gear, removing..
+INFO - 985 is not a gear, removing..
+INFO - 619 is not a gear, removing..
+INFO - 335 is not a gear, removing..
+INFO - 808 meshes with 344
+INFO - 740 meshes with 271
+INFO - 414 is not a gear, removing..
+INFO - 624 meshes with 991
+INFO - 10 is not a gear, removing..
+INFO - 720 meshes with 395
+INFO - 395 is not a gear, removing..
+ERROR - Could not find match for 91
+INFO - 520 is not a gear, removing..
+INFO - 164 meshes with 624
+INFO - 318 is not a gear, removing..
+INFO - 397 is not a gear, removing..
+INFO - 560 is not a gear, removing..
+INFO - 736 meshes with 945
+INFO - 344 is not a gear, removing..
+INFO - 361 is not a gear, removing..
+INFO - 333 meshes with 667
+INFO - 271 is not a gear, removing..
+INFO - 25 is not a gear, removing..
+INFO - 958 meshes with 839
+INFO - 839 is not a gear, removing..
+INFO - 991 is not a gear, removing..
+INFO - 82 is not a gear, removing..
+INFO - 624 is not a gear, removing..
+INFO - 286 is not a gear, removing..
+INFO - 663 is not a gear, removing..
+INFO - 535 meshes with 73
+INFO - 383 meshes with 277
+INFO - 368 meshes with 647
+INFO - 945 is not a gear, removing..
+INFO - 693 meshes with 568
+INFO - 692 meshes with 611
+INFO - 769 meshes with 262
+ERROR - Could not find match for 153
+INFO - 811 is not a gear, removing..
+INFO - 277 is not a gear, removing..
+INFO - 667 is not a gear, removing..
+INFO - 687 is not a gear, removing..
+INFO - 834 meshes with 375
+INFO - 73 is not a gear, removing..
+INFO - 71 meshes with 235
+INFO - 647 is not a gear, removing..
+INFO - 300 is not a gear, removing..
+INFO - 568 is not a gear, removing..
+INFO - 611 is not a gear, removing..
+INFO - 262 is not a gear, removing..
+INFO - 742 is not a gear, removing..
+INFO - 213 is not a gear, removing..
+INFO - 754 is not a gear, removing..
+INFO - 73 meshes with 846
+INFO - 208 is not a gear, removing..
+INFO - 9 meshes with 257
+INFO - 19 is not a gear, removing..
+INFO - 129 meshes with 403
+INFO - 719 is not a gear, removing..
+INFO - 795 meshes with 63
+INFO - 82 is not a gear, removing..
+INFO - 375 is not a gear, removing..
+INFO - 235 is not a gear, removing..
+INFO - 348 meshes with 852
+INFO - 260 is not a gear, removing..
+ERROR - Could not find match for 638
+INFO - 165 meshes with 854
+INFO - 151 meshes with 443
+INFO - 846 is not a gear, removing..
+INFO - 257 is not a gear, removing..
+INFO - 524 meshes with 377
+INFO - 695 is not a gear, removing..
+INFO - 787 is not a gear, removing..
+INFO - 403 is not a gear, removing..
+INFO - 336 meshes with 533
+INFO - 63 is not a gear, removing..
+INFO - 788 is not a gear, removing..
+INFO - 162 is not a gear, removing..
+INFO - 854 is not a gear, removing..
+INFO - 492 is not a gear, removing..
+INFO - 377 is not a gear, removing..
+INFO - 852 is not a gear, removing..
+INFO - 681 meshes with 9
+INFO - 923 is not a gear, removing..
+INFO - 198 is not a gear, removing..
+INFO - 996 is not a gear, removing..
+INFO - 718 is not a gear, removing..
+INFO - 809 is not a gear, removing..
+INFO - 443 is not a gear, removing..
+INFO - 415 meshes with 929
+INFO - 267 meshes with 145
+INFO - 533 is not a gear, removing..
+INFO - 724 meshes with 394
+INFO - 418 is not a gear, removing..
+INFO - 145 is not a gear, removing..
+INFO - 401 meshes with 600
+INFO - 447 is not a gear, removing..
+INFO - 634 meshes with 492
+INFO - 819 meshes with 253
+INFO - 9 is not a gear, removing..
+INFO - 362 is not a gear, removing..
+INFO - 241 is not a gear, removing..
+INFO - 412 meshes with 773
+INFO - 929 is not a gear, removing..
+INFO - 14 meshes with 433
+INFO - 642 is not a gear, removing..
+INFO - 324 is not a gear, removing..
+INFO - 394 is not a gear, removing..
+INFO - 661 meshes with 969
+INFO - 773 meshes with 848
+INFO - 165 is not a gear, removing..
+INFO - 600 is not a gear, removing..
+INFO - 492 is not a gear, removing..
+INFO - 253 is not a gear, removing..
+INFO - 918 meshes with 578
+INFO - 537 is not a gear, removing..
+INFO - 140 is not a gear, removing..
+INFO - 773 is not a gear, removing..
+INFO - 433 is not a gear, removing..
+INFO - 10 is not a gear, removing..
+INFO - 83 meshes with 304
+INFO - 241 is not a gear, removing..
+ERROR - Could not find match for 576
+INFO - 417 meshes with 227
+INFO - 969 is not a gear, removing..
+INFO - 852 is not a gear, removing..
+INFO - 848 is not a gear, removing..
+INFO - 821 is not a gear, removing..
+INFO - 153 meshes with 607
+INFO - 25 meshes with 317
+INFO - 317 is not a gear, removing..
+INFO - 628 meshes with 233
+INFO - 578 is not a gear, removing..
+INFO - 17 meshes with 788
+INFO - 227 is not a gear, removing..
+INFO - 995 meshes with 830
+INFO - 889 meshes with 235
+INFO - 459 meshes with 439
+INFO - 697 meshes with 944
+INFO - 304 is not a gear, removing..
+ERROR - Could not find match for 852
+INFO - 788 is not a gear, removing..
+INFO - 630 is not a gear, removing..
+INFO - 720 meshes with 594
+INFO - 594 is not a gear, removing..
+INFO - 910 meshes with 801
+INFO - 801 is not a gear, removing..
+INFO - 939 is not a gear, removing..
+INFO - 235 is not a gear, removing..
+INFO - 607 is not a gear, removing..
+INFO - 802 meshes with 326
+ERROR - Could not find match for 249
+INFO - 233 is not a gear, removing..
+INFO - 177 is not a gear, removing..
+INFO - 734 is not a gear, removing..
+INFO - 828 meshes with 142
+INFO - 830 is not a gear, removing..
+INFO - 439 is not a gear, removing..
+INFO - 944 is not a gear, removing..
+INFO - 482 meshes with 221
+INFO - 326 is not a gear, removing..
+INFO - 3 meshes with 66
+INFO - 66 is not a gear, removing..
+INFO - 628 is not a gear, removing..
+INFO - 350 is not a gear, removing..
+INFO - 544 is not a gear, removing..
+INFO - 763 meshes with 689
+INFO - 142 is not a gear, removing..
+INFO - 792 is not a gear, removing..
+INFO - 974 is not a gear, removing..
+INFO - 663 is not a gear, removing..
+INFO - 729 meshes with 24
+INFO - 916 is not a gear, removing..
+INFO - 916 is not a gear, removing..
+INFO - 221 is not a gear, removing..
+INFO - 689 is not a gear, removing..
+INFO - 456 is not a gear, removing..
+INFO - 62 meshes with 936
+INFO - 621 is not a gear, removing..
+ERROR - Could not find match for 436
+INFO - 520 is not a gear, removing..
+INFO - 808 meshes with 64
+INFO - 670 meshes with 960
+INFO - 121 is not a gear, removing..
+INFO - 780 meshes with 19
+INFO - 844 meshes with 659
+INFO - 827 is not a gear, removing..
+INFO - 338 meshes with 243
+INFO - 24 is not a gear, removing..
+INFO - 601 meshes with 346
+INFO - 346 is not a gear, removing..
+INFO - 621 meshes with 588
+INFO - 531 meshes with 461
+INFO - 659 is not a gear, removing..
+INFO - 297 is not a gear, removing..
+INFO - 697 is not a gear, removing..
+INFO - 468 meshes with 244
+INFO - 936 is not a gear, removing..
+INFO - 265 meshes with 272
+INFO - 905 meshes with 993
+INFO - 64 is not a gear, removing..
+INFO - 589 is not a gear, removing..
+INFO - 960 is not a gear, removing..
+INFO - 62 meshes with 961
+INFO - 19 is not a gear, removing..
+INFO - 152 meshes with 490
+INFO - 243 is not a gear, removing..
+INFO - 962 meshes with 236
+INFO - 757 is not a gear, removing..
+INFO - 270 is not a gear, removing..
+INFO - 697 meshes with 238
+INFO - 588 is not a gear, removing..
+INFO - 461 is not a gear, removing..
+INFO - 263 is not a gear, removing..
+INFO - 373 is not a gear, removing..
+INFO - 464 meshes with 646
+INFO - 244 is not a gear, removing..
+INFO - 688 is not a gear, removing..
+INFO - 272 is not a gear, removing..
+INFO - 993 is not a gear, removing..
+ERROR - Could not find match for 536
+INFO - 961 is not a gear, removing..
+INFO - 490 is not a gear, removing..
+INFO - 181 meshes with 981
+INFO - 236 is not a gear, removing..
+INFO - 406 meshes with 228
+INFO - 238 is not a gear, removing..
+INFO - 94 meshes with 579
+INFO - 74 is not a gear, removing..
+INFO - 349 is not a gear, removing..
+INFO - 723 is not a gear, removing..
+INFO - 646 is not a gear, removing..
+ERROR - Could not find match for 328
+INFO - 139 is not a gear, removing..
+INFO - 624 meshes with 764
+INFO - 996 meshes with 784
+INFO - 784 is not a gear, removing..
+ERROR - Could not find match for 61
+INFO - 981 is not a gear, removing..
+INFO - 557 meshes with 549
+INFO - 313 is not a gear, removing..
+ERROR - Could not find match for 776
+INFO - 228 is not a gear, removing..
+INFO - 749 meshes with 821
+INFO - 246 meshes with 979
+INFO - 579 is not a gear, removing..
+INFO - 240 meshes with 47
+INFO - 230 meshes with 272
+INFO - 611 is not a gear, removing..
+ERROR - Could not find match for 917
+INFO - 703 meshes with 661
+INFO - 730 meshes with 964
+INFO - 961 meshes with 853
+INFO - 764 is not a gear, removing..
+INFO - 979 is not a gear, removing..
+INFO - 558 meshes with 906
+INFO - 906 is not a gear, removing..
+INFO - 58 meshes with 321
+INFO - 875 is not a gear, removing..
+INFO - 559 is not a gear, removing..
+ERROR - Could not find match for 274
+INFO - 549 is not a gear, removing..
+INFO - 853 is not a gear, removing..
+INFO - 821 is not a gear, removing..
+INFO - 65 meshes with 676
+INFO - 676 is not a gear, removing..
+INFO - 47 is not a gear, removing..
+INFO - 272 is not a gear, removing..
+INFO - 213 is not a gear, removing..
+INFO - 45 is not a gear, removing..
+INFO - 321 is not a gear, removing..
+INFO - 661 is not a gear, removing..
+INFO - 964 is not a gear, removing..
+INFO - 540 meshes with 395
+INFO - 955 meshes with 994
+INFO - 143 meshes with 907
+INFO - 907 is not a gear, removing..
+INFO - 1 is not a gear, removing..
+INFO - 10 meshes with 131
+INFO - 660 meshes with 625
+INFO - 109 is not a gear, removing..
+INFO - 415 is not a gear, removing..
+INFO - 353 is not a gear, removing..
+INFO - 572 is not a gear, removing..
+INFO - 878 is not a gear, removing..
+INFO - 131 is not a gear, removing..
+INFO - 182 is not a gear, removing..
+INFO - 963 meshes with 614
+INFO - 395 is not a gear, removing..
+INFO - 871 meshes with 494
+INFO - 994 is not a gear, removing..
+INFO - 336 meshes with 238
+INFO - 319 meshes with 477
+INFO - 88 meshes with 620
+INFO - 620 is not a gear, removing..
+INFO - 625 is not a gear, removing..
+INFO - 7 meshes with 121
+INFO - 121 is not a gear, removing..
+INFO - 494 is not a gear, removing..
+INFO - 8 is not a gear, removing..
+INFO - 998 meshes with 973
+INFO - 973 is not a gear, removing..
+INFO - 691 is not a gear, removing..
+INFO - 614 is not a gear, removing..
+INFO - 120 is not a gear, removing..
+INFO - 238 is not a gear, removing..
+INFO - 496 is not a gear, removing..
+INFO - 477 is not a gear, removing..
+INFO - 994 is not a gear, removing..
